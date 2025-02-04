@@ -3,40 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|c:\\users\\pietro\\source\\repos\\pcto_makaoui_pessini\\webapppcto\\webapppcto\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|solutionrelative:webapppcto\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|c:\\users\\pietro\\source\\repos\\pcto_makaoui_pessini\\webapppcto\\webapppcto\\controllers\\prenotationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|solutionrelative:webapppcto\\controllers\\prenotationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|c:\\users\\pietro\\source\\repos\\pcto_makaoui_pessini\\webapppcto\\webapppcto\\controllers\\viaggiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|solutionrelative:webapppcto\\controllers\\viaggiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pietro\\Desktop\\DemoPCTO-master\\DemoPCTO-master\\DemoPCTO\\Controllers\\ClassRoomController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pietro\\Desktop\\DemoPCTO-master\\DemoPCTO-master\\DemoPCTO\\Controllers\\StudentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|c:\\users\\pietro\\source\\repos\\pcto_makaoui_pessini\\webapppcto\\webapppcto\\data\\agenziadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|solutionrelative:webapppcto\\data\\agenziadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|c:\\users\\pietro\\source\\repos\\pcto_makaoui_pessini\\webapppcto\\webapppcto\\data\\prenotazione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|solutionrelative:webapppcto\\data\\prenotazione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|c:\\users\\pietro\\source\\repos\\pcto_makaoui_pessini\\webapppcto\\webapppcto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|solutionrelative:webapppcto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|c:\\users\\pietro\\source\\repos\\pcto_makaoui_pessini\\webapppcto\\webapppcto\\controllers\\prenotationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|solutionrelative:webapppcto\\controllers\\prenotationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|c:\\users\\pietro\\source\\repos\\pcto_makaoui_pessini\\webapppcto\\webapppcto\\controllers\\viaggiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|solutionrelative:webapppcto\\controllers\\viaggiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|c:\\users\\pietro\\source\\repos\\pcto_makaoui_pessini\\webapppcto\\webapppcto\\data\\prenotazione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|solutionrelative:webapppcto\\data\\prenotazione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|c:\\users\\pietro\\source\\repos\\pcto_makaoui_pessini\\webapppcto\\webapppcto\\data\\viaggio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|solutionrelative:webapppcto\\data\\viaggio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|c:\\users\\pietro\\source\\repos\\pcto_makaoui_pessini\\webapppcto\\webapppcto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|solutionrelative:webapppcto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|c:\\users\\pietro\\source\\repos\\pcto_makaoui_pessini\\webapppcto\\webapppcto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|solutionrelative:webapppcto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|c:\\users\\pietro\\source\\repos\\pcto_makaoui_pessini\\webapppcto\\webapppcto\\migrations\\20250204082801_agmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|solutionrelative:webapppcto\\migrations\\20250204082801_agmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,23 +44,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20250204082801_AgMig.cs",
-              "DocumentMoniker": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\Migrations\\20250204082801_AgMig.cs",
-              "RelativeDocumentMoniker": "WebAppPcto\\Migrations\\20250204082801_AgMig.cs",
-              "ToolTip": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\Migrations\\20250204082801_AgMig.cs",
-              "RelativeToolTip": "WebAppPcto\\Migrations\\20250204082801_AgMig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Pietro\\Desktop\\DemoPCTO-master\\DemoPCTO-master\\DemoPCTO\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\DemoPCTO-master\\DemoPCTO-master\\DemoPCTO\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Pietro\\Desktop\\DemoPCTO-master\\DemoPCTO-master\\DemoPCTO\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\DemoPCTO-master\\DemoPCTO-master\\DemoPCTO\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T08:28:01.378Z"
+              "WhenOpened": "2025-02-04T11:06:02.296Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ClassRoomController.cs",
+              "DocumentMoniker": "C:\\Users\\Pietro\\Desktop\\DemoPCTO-master\\DemoPCTO-master\\DemoPCTO\\Controllers\\ClassRoomController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\DemoPCTO-master\\DemoPCTO-master\\DemoPCTO\\Controllers\\ClassRoomController.cs",
+              "ToolTip": "C:\\Users\\Pietro\\Desktop\\DemoPCTO-master\\DemoPCTO-master\\DemoPCTO\\Controllers\\ClassRoomController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\DemoPCTO-master\\DemoPCTO-master\\DemoPCTO\\Controllers\\ClassRoomController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T11:05:32.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ViaggioController.cs",
               "DocumentMoniker": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\Controllers\\ViaggioController.cs",
               "RelativeDocumentMoniker": "WebAppPcto\\Controllers\\ViaggioController.cs",
@@ -70,12 +82,11 @@
               "RelativeToolTip": "WebAppPcto\\Controllers\\ViaggioController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T08:01:03.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T08:01:03.25Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "viaggio.cs",
               "DocumentMoniker": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\Data\\viaggio.cs",
               "RelativeDocumentMoniker": "WebAppPcto\\Data\\viaggio.cs",
@@ -87,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\Program.cs",
               "RelativeDocumentMoniker": "WebAppPcto\\Program.cs",
@@ -99,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\appsettings.json",
               "RelativeDocumentMoniker": "WebAppPcto\\appsettings.json",
@@ -107,23 +118,25 @@
               "RelativeToolTip": "WebAppPcto\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-29T15:33:16.114Z"
+              "WhenOpened": "2025-01-29T15:33:16.114Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "PrenotationController.cs",
               "DocumentMoniker": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\Controllers\\PrenotationController.cs",
               "RelativeDocumentMoniker": "WebAppPcto\\Controllers\\PrenotationController.cs",
               "ToolTip": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\Controllers\\PrenotationController.cs",
               "RelativeToolTip": "WebAppPcto\\Controllers\\PrenotationController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T15:01:51.588Z"
+              "WhenOpened": "2025-01-29T15:01:51.588Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AgenziaDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\Data\\AgenziaDbContext.cs",
               "RelativeDocumentMoniker": "WebAppPcto\\Data\\AgenziaDbContext.cs",
@@ -131,11 +144,12 @@
               "RelativeToolTip": "WebAppPcto\\Data\\AgenziaDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T14:56:18.967Z"
+              "WhenOpened": "2025-01-29T14:56:18.967Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Prenotazione.cs",
               "DocumentMoniker": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\Data\\Prenotazione.cs",
               "RelativeDocumentMoniker": "WebAppPcto\\Data\\Prenotazione.cs",
@@ -144,19 +158,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-29T14:39:06.359Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\index.html",
-              "RelativeDocumentMoniker": "WebAppPcto\\wwwroot\\index.html",
-              "ToolTip": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\index.html",
-              "RelativeToolTip": "WebAppPcto\\wwwroot\\index.html",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADgAAACFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-01-29T13:45:47.005Z",
-              "EditorCaption": ""
             }
           ]
         }
