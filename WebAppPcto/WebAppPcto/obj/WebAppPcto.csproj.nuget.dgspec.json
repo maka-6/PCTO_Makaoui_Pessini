@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\WebAppPcto.csproj": {}
+    "C:\\Users\\makao\\OneDrive\\Desktop\\Lav\\4G\\Github\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\WebAppPcto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\WebAppPcto.csproj": {
+    "C:\\Users\\makao\\OneDrive\\Desktop\\Lav\\4G\\Github\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\WebAppPcto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\WebAppPcto.csproj",
+        "projectUniqueName": "C:\\Users\\makao\\OneDrive\\Desktop\\Lav\\4G\\Github\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\WebAppPcto.csproj",
         "projectName": "WebAppPcto",
-        "projectPath": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\WebAppPcto.csproj",
-        "packagesPath": "C:\\Users\\Pietro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\",
+        "projectPath": "C:\\Users\\makao\\OneDrive\\Desktop\\Lav\\4G\\Github\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\WebAppPcto.csproj",
+        "packagesPath": "C:\\Users\\makao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\makao\\OneDrive\\Desktop\\Lav\\4G\\Github\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Pietro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\makao\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
