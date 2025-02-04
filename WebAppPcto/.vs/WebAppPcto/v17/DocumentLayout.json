@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pietro\\source\\repos\\WebAppPcto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|c:\\users\\pietro\\source\\repos\\webapppcto\\webapppcto\\controllers\\prenotationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|solutionrelative:webapppcto\\controllers\\prenotationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|c:\\users\\pietro\\source\\repos\\webapppcto\\webapppcto\\controllers\\viaggiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|solutionrelative:webapppcto\\controllers\\viaggiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|c:\\users\\pietro\\source\\repos\\webapppcto\\webapppcto\\data\\agenziadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|solutionrelative:webapppcto\\data\\agenziadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|c:\\users\\pietro\\source\\repos\\webapppcto\\webapppcto\\data\\prenotazione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|solutionrelative:webapppcto\\data\\prenotazione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|c:\\users\\pietro\\source\\repos\\webapppcto\\webapppcto\\data\\viaggio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|solutionrelative:webapppcto\\data\\viaggio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|c:\\users\\pietro\\source\\repos\\webapppcto\\webapppcto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|solutionrelative:webapppcto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|c:\\users\\pietro\\source\\repos\\webapppcto\\webapppcto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|solutionrelative:webapppcto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|c:\\users\\pietro\\source\\repos\\webapppcto\\webapppcto\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|solutionrelative:webapppcto\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViaggioController.cs",
+              "DocumentMoniker": "C:\\Users\\Pietro\\source\\repos\\WebAppPcto\\WebAppPcto\\Controllers\\ViaggioController.cs",
+              "RelativeDocumentMoniker": "WebAppPcto\\Controllers\\ViaggioController.cs",
+              "ToolTip": "C:\\Users\\Pietro\\source\\repos\\WebAppPcto\\WebAppPcto\\Controllers\\ViaggioController.cs",
+              "RelativeToolTip": "WebAppPcto\\Controllers\\ViaggioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:01:03.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "viaggio.cs",
+              "DocumentMoniker": "C:\\Users\\Pietro\\source\\repos\\WebAppPcto\\WebAppPcto\\Data\\viaggio.cs",
+              "RelativeDocumentMoniker": "WebAppPcto\\Data\\viaggio.cs",
+              "ToolTip": "C:\\Users\\Pietro\\source\\repos\\WebAppPcto\\WebAppPcto\\Data\\viaggio.cs",
+              "RelativeToolTip": "WebAppPcto\\Data\\viaggio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T07:56:33.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pietro\\source\\repos\\WebAppPcto\\WebAppPcto\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppPcto\\Program.cs",
+              "ToolTip": "C:\\Users\\Pietro\\source\\repos\\WebAppPcto\\WebAppPcto\\Program.cs",
+              "RelativeToolTip": "WebAppPcto\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T09:50:06.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pietro\\source\\repos\\WebAppPcto\\WebAppPcto\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAppPcto\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pietro\\source\\repos\\WebAppPcto\\WebAppPcto\\appsettings.json",
+              "RelativeToolTip": "WebAppPcto\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-29T15:33:16.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrenotationController.cs",
+              "DocumentMoniker": "C:\\Users\\Pietro\\source\\repos\\WebAppPcto\\WebAppPcto\\Controllers\\PrenotationController.cs",
+              "RelativeDocumentMoniker": "WebAppPcto\\Controllers\\PrenotationController.cs",
+              "ToolTip": "C:\\Users\\Pietro\\source\\repos\\WebAppPcto\\WebAppPcto\\Controllers\\PrenotationController.cs",
+              "RelativeToolTip": "WebAppPcto\\Controllers\\PrenotationController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:01:51.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AgenziaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pietro\\source\\repos\\WebAppPcto\\WebAppPcto\\Data\\AgenziaDbContext.cs",
+              "RelativeDocumentMoniker": "WebAppPcto\\Data\\AgenziaDbContext.cs",
+              "ToolTip": "C:\\Users\\Pietro\\source\\repos\\WebAppPcto\\WebAppPcto\\Data\\AgenziaDbContext.cs",
+              "RelativeToolTip": "WebAppPcto\\Data\\AgenziaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T14:56:18.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Prenotazione.cs",
+              "DocumentMoniker": "C:\\Users\\Pietro\\source\\repos\\WebAppPcto\\WebAppPcto\\Data\\Prenotazione.cs",
+              "RelativeDocumentMoniker": "WebAppPcto\\Data\\Prenotazione.cs",
+              "ToolTip": "C:\\Users\\Pietro\\source\\repos\\WebAppPcto\\WebAppPcto\\Data\\Prenotazione.cs",
+              "RelativeToolTip": "WebAppPcto\\Data\\Prenotazione.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T14:39:06.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Pietro\\source\\repos\\WebAppPcto\\WebAppPcto\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "WebAppPcto\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Pietro\\source\\repos\\WebAppPcto\\WebAppPcto\\wwwroot\\index.html",
+              "RelativeToolTip": "WebAppPcto\\wwwroot\\index.html",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-29T13:45:47.005Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

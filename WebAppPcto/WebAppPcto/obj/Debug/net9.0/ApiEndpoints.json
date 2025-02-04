@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "WebAppPcto.Controllers.PrenotationController",
+    "Method": "Get",
+    "RelativePath": "api/Prenotation",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAppPcto.Controllers.PrenotationController",
+    "Method": "Post",
+    "RelativePath": "api/Prenotation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "p",
+        "Type": "WebAppPcto.Data.Prenotazione",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
