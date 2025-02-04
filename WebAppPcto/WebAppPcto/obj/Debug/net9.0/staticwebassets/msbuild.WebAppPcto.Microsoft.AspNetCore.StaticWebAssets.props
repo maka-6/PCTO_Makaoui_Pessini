@@ -1,23 +1,5 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\A8fsozfeBOUgldVBJp9J--0--1j9ec-removebg-preview.png'))">
-      <SourceType>Package</SourceType>
-      <SourceId>WebAppPcto</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/WebAppPcto</BasePath>
-      <RelativePath>A8fsozfeBOUgldVBJp9J--0--1j9ec-removebg-preview.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>zj6iblz0te</Fingerprint>
-      <Integrity>UX9VyPVrHp7QYz6weZY8MJv2QOsPs0IS1WNTvaFeC8Y=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\A8fsozfeBOUgldVBJp9J--0--1j9ec-removebg-preview.png'))</OriginalItemSpec>
-    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\bootstrap\css\bootstrap.css'))">
       <SourceType>Package</SourceType>
       <SourceId>WebAppPcto</SourceId>
@@ -2466,30 +2448,30 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\bootstrap\scss\_variables-dark.scss'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\chiSonoIo.html'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Img\A8fsozfeBOUgldVBJp9J--0--1j9ec-removebg-preview.png'))">
       <SourceType>Package</SourceType>
       <SourceId>WebAppPcto</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WebAppPcto</BasePath>
-      <RelativePath>chiSonoIo.html</RelativePath>
+      <RelativePath>Img/A8fsozfeBOUgldVBJp9J--0--1j9ec-removebg-preview.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>28rvzhd9t3</Fingerprint>
-      <Integrity>kpI5hWXIZ2sduWVJ9FT2dtuOwYWEZzSEB+i6p0wbvG0=</Integrity>
+      <Fingerprint>zj6iblz0te</Fingerprint>
+      <Integrity>UX9VyPVrHp7QYz6weZY8MJv2QOsPs0IS1WNTvaFeC8Y=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\chiSonoIo.html'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Img\A8fsozfeBOUgldVBJp9J--0--1j9ec-removebg-preview.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image-removebg-preview (24).png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Img\image-removebg-preview (24).png'))">
       <SourceType>Package</SourceType>
       <SourceId>WebAppPcto</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WebAppPcto</BasePath>
-      <RelativePath>image-removebg-preview (24).png</RelativePath>
+      <RelativePath>Img/image-removebg-preview (24).png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -2500,50 +2482,14 @@
       <Integrity>aoGEAwQTBcQQ6V1c95zvdGIfp7T8IvvSXayiW6DUASY=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image-removebg-preview (24).png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Img\image-removebg-preview (24).png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Img\Screenshot_2025-01-30_091845-removebg-preview.png'))">
       <SourceType>Package</SourceType>
       <SourceId>WebAppPcto</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WebAppPcto</BasePath>
-      <RelativePath>index.html</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>sdra97dgfp</Fingerprint>
-      <Integrity>IJ7zpOEW1KwJFrgnDnLujJmaWJmbCo0pOpgLzvutSB0=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\prenotation.html'))">
-      <SourceType>Package</SourceType>
-      <SourceId>WebAppPcto</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/WebAppPcto</BasePath>
-      <RelativePath>prenotation.html</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>303ytxuxnh</Fingerprint>
-      <Integrity>s8SDXzgE+4xkASiWvT3DzR81Tx9Oo7LCzpBEGPj59uY=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\prenotation.html'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Screenshot_2025-01-30_091845-removebg-preview.png'))">
-      <SourceType>Package</SourceType>
-      <SourceId>WebAppPcto</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/WebAppPcto</BasePath>
-      <RelativePath>Screenshot_2025-01-30_091845-removebg-preview.png</RelativePath>
+      <RelativePath>Img/Screenshot_2025-01-30_091845-removebg-preview.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -2554,14 +2500,14 @@
       <Integrity>HjM5aPfI5oKqUxbMqMnYVKmJs3zZgyNbXOeZZ2CGspg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Screenshot_2025-01-30_091845-removebg-preview.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Img\Screenshot_2025-01-30_091845-removebg-preview.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Screenshot_2025-01-30_102319-removebg-preview.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Img\Screenshot_2025-01-30_102319-removebg-preview.png'))">
       <SourceType>Package</SourceType>
       <SourceId>WebAppPcto</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WebAppPcto</BasePath>
-      <RelativePath>Screenshot_2025-01-30_102319-removebg-preview.png</RelativePath>
+      <RelativePath>Img/Screenshot_2025-01-30_102319-removebg-preview.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -2572,133 +2518,187 @@
       <Integrity>eUtyy5x9iXpOmHRF4gkE3pBpOArZOYTPF5n6+MiHA6A=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Screenshot_2025-01-30_102319-removebg-preview.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Img\Screenshot_2025-01-30_102319-removebg-preview.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Site.js'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Index\chiSonoIo.html'))">
       <SourceType>Package</SourceType>
       <SourceId>WebAppPcto</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WebAppPcto</BasePath>
-      <RelativePath>Site.js</RelativePath>
+      <RelativePath>Index/chiSonoIo.html</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>3xfrwko6fg</Fingerprint>
-      <Integrity>qYZ1cMIHKmv31dMuuibpE+V5z4hqLWy8BS6hS2Ox5Tc=</Integrity>
+      <Fingerprint>5080802gyl</Fingerprint>
+      <Integrity>e6+68a1zCkCIWu53at0dtUwLCrn56CQKE4RRdikxcpM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Site.js'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Index\chiSonoIo.html'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\tuor1.html'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Index\index.html'))">
       <SourceType>Package</SourceType>
       <SourceId>WebAppPcto</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WebAppPcto</BasePath>
-      <RelativePath>tuor1.html</RelativePath>
+      <RelativePath>Index/index.html</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>iijgekg7q5</Fingerprint>
-      <Integrity>yiTaPj974EMTosJlXFtVvd1knFUuIogpzO3zD6aFCuw=</Integrity>
+      <Fingerprint>x67yqey0f9</Fingerprint>
+      <Integrity>6cpKfuhil+d7jkYiYIpd9ZDBEccSFEQxj19GExZp1OY=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\tuor1.html'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Index\index.html'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\tuor2.html'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Index\prenotation.html'))">
       <SourceType>Package</SourceType>
       <SourceId>WebAppPcto</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WebAppPcto</BasePath>
-      <RelativePath>tuor2.html</RelativePath>
+      <RelativePath>Index/prenotation.html</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>bf5huusk67</Fingerprint>
-      <Integrity>twtRQ7rTL8oBM4U03yQSpUS0fpTNLdxwLjZ+Tz02cT4=</Integrity>
+      <Fingerprint>ll7hrc9b81</Fingerprint>
+      <Integrity>R8QfHZLYjjiDJJI5qxEV9atGjnLElbf7wGiRIKx4tJg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\tuor2.html'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Index\prenotation.html'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\tuor3.html'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Script\GetViaggi.js'))">
       <SourceType>Package</SourceType>
       <SourceId>WebAppPcto</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WebAppPcto</BasePath>
-      <RelativePath>tuor3.html</RelativePath>
+      <RelativePath>Script/GetViaggi.js</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>uof70bmvew</Fingerprint>
-      <Integrity>0ojC1HbrorSKaVKdaZPzqD+z2B6OTrnfyFCDwGzUx1Y=</Integrity>
+      <Fingerprint>vwy9uf8r6q</Fingerprint>
+      <Integrity>/9IOf60cK9F8BgeKewYz6WDiRinBdlrxHclJJ7mcDIk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\tuor3.html'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Script\GetViaggi.js'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\tuor4.html'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TourPages\tuor1.html'))">
       <SourceType>Package</SourceType>
       <SourceId>WebAppPcto</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WebAppPcto</BasePath>
-      <RelativePath>tuor4.html</RelativePath>
+      <RelativePath>TourPages/tuor1.html</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>b8qkfgmsjx</Fingerprint>
-      <Integrity>y9C6tvCCoItsLBmUCknYgYYNINKC4UgSwIElQBczsGY=</Integrity>
+      <Fingerprint>w55p875q0t</Fingerprint>
+      <Integrity>nMVEUtPWDTv0u+mR7bEdJPb4VjPRPioYl5ISyvneNKw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\tuor4.html'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TourPages\tuor1.html'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\tuor5.html'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TourPages\tuor2.html'))">
       <SourceType>Package</SourceType>
       <SourceId>WebAppPcto</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WebAppPcto</BasePath>
-      <RelativePath>tuor5.html</RelativePath>
+      <RelativePath>TourPages/tuor2.html</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>s2gwgfdd1s</Fingerprint>
-      <Integrity>ZNU+tYSmIzEv6EExNl0bIRqmmY6rSfHRp0n/+ICfbuQ=</Integrity>
+      <Fingerprint>9rh9lxtlqx</Fingerprint>
+      <Integrity>29Th/GjQz06MmoQXf+AUUm0xMTjYi+Dfw16AljCceao=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\tuor5.html'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TourPages\tuor2.html'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\tuor6.html'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TourPages\tuor3.html'))">
       <SourceType>Package</SourceType>
       <SourceId>WebAppPcto</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WebAppPcto</BasePath>
-      <RelativePath>tuor6.html</RelativePath>
+      <RelativePath>TourPages/tuor3.html</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>xlaqd2pfl6</Fingerprint>
-      <Integrity>y4L/dvR/d/rllgfo6NfPvCKoigpI5vNseEogyzGj+e4=</Integrity>
+      <Fingerprint>mrjs5vwt1i</Fingerprint>
+      <Integrity>7mtJ0f+L4GXoz5ODyTn9sRbaLdKM/xzg7x1s7YQKHUk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\tuor6.html'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TourPages\tuor3.html'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TourPages\tuor4.html'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WebAppPcto</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WebAppPcto</BasePath>
+      <RelativePath>TourPages/tuor4.html</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>cytqzphzdi</Fingerprint>
+      <Integrity>JPE1NrSlPThs3o2NWfTOVZ0cn4c6p3X6wjL51aZrqQ8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TourPages\tuor4.html'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TourPages\tuor5.html'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WebAppPcto</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WebAppPcto</BasePath>
+      <RelativePath>TourPages/tuor5.html</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>z0q18zfwsc</Fingerprint>
+      <Integrity>/WGHdS73/m7Sv9VNj+drWl3yAyK0EqbGKAtkXroMJYo=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TourPages\tuor5.html'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TourPages\tuor6.html'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WebAppPcto</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WebAppPcto</BasePath>
+      <RelativePath>TourPages/tuor6.html</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>oqp1qeg8tb</Fingerprint>
+      <Integrity>cHVDaWfunV+fYkd2DZ4fya8ULkIa4NkK+bwi/jw2oWU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\TourPages\tuor6.html'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

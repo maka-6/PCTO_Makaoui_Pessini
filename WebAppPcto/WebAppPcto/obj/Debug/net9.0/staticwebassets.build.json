@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qS4x2nRiRW4mRGQTDZ6xrCrIJ+Xcg+ZhUxhTT0gMUhg=",
+  "Hash": "y3TVJM231lxV5i1tFAj9FuqisD3Y5M8h72sGbEDbPt8=",
   "Source": "WebAppPcto",
   "BasePath": "_content/WebAppPcto",
   "Mode": "Default",
@@ -16,27 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\0gouc3mt5c-uof70bmvew.gz",
-      "SourceId": "WebAppPcto",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/WebAppPcto",
-      "RelativePath": "tuor3#[.{fingerprint=uof70bmvew}]?.html.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\tuor3.html",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "6w1bgtzp4r",
-      "Integrity": "VvIZzzHApo91iN/nvaAFkZoNWDq1zU9nia/pMJJ6ZC0=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\tuor3.html"
-    },
     {
       "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\0jey1meg9s-kbrnm935zg.gz",
       "SourceId": "WebAppPcto",
@@ -57,6 +36,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\0ue1e4zgd2-mrjs5vwt1i.gz",
+      "SourceId": "WebAppPcto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebAppPcto",
+      "RelativePath": "TourPages/tuor3#[.{fingerprint=mrjs5vwt1i}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\TourPages\\tuor3.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "a9fpq0xrkx",
+      "Integrity": "grxJFzysofu1VZsOInFTJ0LIC4j5et4fLzpcrv5+BvE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\TourPages\\tuor3.html"
     },
     {
       "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\2owsujbqsg-c2oey78nd0.gz",
@@ -122,27 +122,6 @@
       "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\bootstrap\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\3n7l3ctx42-s2gwgfdd1s.gz",
-      "SourceId": "WebAppPcto",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/WebAppPcto",
-      "RelativePath": "tuor5#[.{fingerprint=s2gwgfdd1s}]?.html.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\tuor5.html",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "0xs0uxpuez",
-      "Integrity": "nFuxj7GcP3m0TJQelbSLxux0/opgPggPFVS2eQzVPvs=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\tuor5.html"
-    },
-    {
       "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\5j6q3l7o5m-0j3bgjxly4.gz",
       "SourceId": "WebAppPcto",
       "SourceType": "Discovered",
@@ -204,6 +183,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\75p7hpoqdq-9rh9lxtlqx.gz",
+      "SourceId": "WebAppPcto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebAppPcto",
+      "RelativePath": "TourPages/tuor2#[.{fingerprint=9rh9lxtlqx}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\TourPages\\tuor2.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "fyvdoqjw7s",
+      "Integrity": "+Sxt5y9e7Amb+thnDBrM4wQbfUGiSABF5TpXpyRxyfE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\TourPages\\tuor2.html"
     },
     {
       "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\7j52xsjl7f-ee0r1s7dh0.gz",
@@ -290,6 +290,27 @@
       "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\bootstrap\\css\\bootstrap-grid.rtl.css"
     },
     {
+      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\91at0ptgh9-5080802gyl.gz",
+      "SourceId": "WebAppPcto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebAppPcto",
+      "RelativePath": "Index/chiSonoIo#[.{fingerprint=5080802gyl}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Index\\chiSonoIo.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "b4kmdzbsxm",
+      "Integrity": "W1ifEJi9luxzRYMS7Cf0+y2TQWWYbUr8RQzrqmxvvXY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Index\\chiSonoIo.html"
+    },
+    {
       "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\9rlw21pn0q-iovd86k7lj.gz",
       "SourceId": "WebAppPcto",
       "SourceType": "Discovered",
@@ -372,27 +393,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\bootstrap\\css\\bootstrap.rtl.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\av5kegzjnj-28rvzhd9t3.gz",
-      "SourceId": "WebAppPcto",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/WebAppPcto",
-      "RelativePath": "chiSonoIo#[.{fingerprint=28rvzhd9t3}]?.html.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\chiSonoIo.html",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "kfwkc0sta2",
-      "Integrity": "MG2H2+B2vvwPMGmLK0MdpulI3j9OHVYHebkgtFeaGRE=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\chiSonoIo.html"
     },
     {
       "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\b2tqqqnw30-46ein0sx1k.gz",
@@ -479,6 +479,48 @@
       "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\bootstrap\\js\\bootstrap.js.map"
     },
     {
+      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\cpwue36gyu-x67yqey0f9.gz",
+      "SourceId": "WebAppPcto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebAppPcto",
+      "RelativePath": "Index/index#[.{fingerprint=x67yqey0f9}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Index\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "3arxh3nk1g",
+      "Integrity": "WxWEZYm24esEQzBT/p6kjOWKCC1Chu1zHYaJhLfOMo8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Index\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\d1rv8z0hiv-w55p875q0t.gz",
+      "SourceId": "WebAppPcto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebAppPcto",
+      "RelativePath": "TourPages/tuor1#[.{fingerprint=w55p875q0t}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\TourPages\\tuor1.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "q3so5biq60",
+      "Integrity": "uooxxolVAJT22DPPMZ4oUDUj5JUSD25VgNsMJnnxRcg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\TourPages\\tuor1.html"
+    },
+    {
       "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\drn03rnwe9-tdbxkamptv.gz",
       "SourceId": "WebAppPcto",
       "SourceType": "Discovered",
@@ -498,6 +540,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\eb2w374vwu-z0q18zfwsc.gz",
+      "SourceId": "WebAppPcto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebAppPcto",
+      "RelativePath": "TourPages/tuor5#[.{fingerprint=z0q18zfwsc}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\TourPages\\tuor5.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "6k1oi2ztce",
+      "Integrity": "GtgLs/N1OZrArx8fNs9pLytCK/byt5RluiXgRER4f1o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\TourPages\\tuor5.html"
+    },
+    {
+      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\ec79a0qdxt-vwy9uf8r6q.gz",
+      "SourceId": "WebAppPcto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebAppPcto",
+      "RelativePath": "Script/GetViaggi#[.{fingerprint=vwy9uf8r6q}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Script\\GetViaggi.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "7bzjkyambs",
+      "Integrity": "g7Xj0B1rc11NTB5kknmh8/LOf8U3zQIsNfEu03TTpLk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Script\\GetViaggi.js"
     },
     {
       "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\efuhc00702-pj5nd1wqec.gz",
@@ -542,27 +626,6 @@
       "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\f5nv1vddx3-303ytxuxnh.gz",
-      "SourceId": "WebAppPcto",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/WebAppPcto",
-      "RelativePath": "prenotation#[.{fingerprint=303ytxuxnh}]?.html.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\prenotation.html",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "l5q4hqxnjl",
-      "Integrity": "aYbLVgvkZfpMH3LoQmqLXvXpK+M9QKAL981MQcqdQ9E=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\prenotation.html"
-    },
-    {
       "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\f9dq2giija-k8d9w2qqmf.gz",
       "SourceId": "WebAppPcto",
       "SourceType": "Discovered",
@@ -603,27 +666,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\bootstrap\\js\\bootstrap.bundle.js"
-    },
-    {
-      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\fo326rqoay-xlaqd2pfl6.gz",
-      "SourceId": "WebAppPcto",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/WebAppPcto",
-      "RelativePath": "tuor6#[.{fingerprint=xlaqd2pfl6}]?.html.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\tuor6.html",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "cwf4ml2gvb",
-      "Integrity": "fJPzyyZW8mIQu+eenIDE0izr0fKiwpac1xECz+Kl5Fg=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\tuor6.html"
     },
     {
       "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\fs81wvuqu6-y7v9cxd14o.gz",
@@ -752,25 +794,25 @@
       "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\ixyws8i0ns-sdra97dgfp.gz",
+      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\jjoseq9rj8-ll7hrc9b81.gz",
       "SourceId": "WebAppPcto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebAppPcto",
-      "RelativePath": "index#[.{fingerprint=sdra97dgfp}]?.html.gz",
+      "RelativePath": "Index/prenotation#[.{fingerprint=ll7hrc9b81}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\index.html",
+      "RelatedAsset": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Index\\prenotation.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "7g64tv26f9",
-      "Integrity": "WU2VzseuASisuYaep6BxVrSgMOqb7RO4lagA3IVoVhQ=",
+      "Fingerprint": "tzp0qpdh9a",
+      "Integrity": "mfFbsAAWi086juifoHUXQz8Ul4sTsqNE/ACWYH/0hUQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\index.html"
+      "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Index\\prenotation.html"
     },
     {
       "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\k25a0f2g2w-dxx9fxp4il.gz",
@@ -815,6 +857,27 @@
       "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\bootstrap\\css\\bootstrap-grid.css.map"
     },
     {
+      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\nderq9od10-cytqzphzdi.gz",
+      "SourceId": "WebAppPcto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebAppPcto",
+      "RelativePath": "TourPages/tuor4#[.{fingerprint=cytqzphzdi}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\TourPages\\tuor4.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "zq96w0yizf",
+      "Integrity": "Jcm3LevjbUSUEjJRGGnF51BjvXj9VGxmNay8+hJ7EUc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\TourPages\\tuor4.html"
+    },
+    {
       "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\ng4bfv0een-rzd6atqjts.gz",
       "SourceId": "WebAppPcto",
       "SourceType": "Discovered",
@@ -834,48 +897,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\bootstrap\\css\\bootstrap-reboot.rtl.css"
-    },
-    {
-      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\nhwku8iv7r-iijgekg7q5.gz",
-      "SourceId": "WebAppPcto",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/WebAppPcto",
-      "RelativePath": "tuor1#[.{fingerprint=iijgekg7q5}]?.html.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\tuor1.html",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "og7dtliv9t",
-      "Integrity": "CPj1Qr84wNo/lX/gIxaPb+i243Gqwm1OMNVXcWgBXOg=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\tuor1.html"
-    },
-    {
-      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\ofwwu9bq6h-b8qkfgmsjx.gz",
-      "SourceId": "WebAppPcto",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/WebAppPcto",
-      "RelativePath": "tuor4#[.{fingerprint=b8qkfgmsjx}]?.html.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\tuor4.html",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "rs1aeefl2q",
-      "Integrity": "ZeLldBpd8Zvm5OpZkb/+STJQnOokfWltHfeH4Cs7q54=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\tuor4.html"
     },
     {
       "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\qgnblh1d1k-s35ty4nyc5.gz",
@@ -983,6 +1004,27 @@
       "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\bootstrap\\js\\bootstrap.esm.min.js"
     },
     {
+      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\uk4l94mirv-oqp1qeg8tb.gz",
+      "SourceId": "WebAppPcto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebAppPcto",
+      "RelativePath": "TourPages/tuor6#[.{fingerprint=oqp1qeg8tb}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\TourPages\\tuor6.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "s482oj9jq0",
+      "Integrity": "rCkjyjotbG82siodX9OXV5/XYXI9cUnqKh5vk8axujI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\TourPages\\tuor6.html"
+    },
+    {
       "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\uwwsc423je-37tfw0ft22.gz",
       "SourceId": "WebAppPcto",
       "SourceType": "Discovered",
@@ -1023,27 +1065,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\bootstrap\\css\\bootstrap-utilities.css"
-    },
-    {
-      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\w3ja9jjpp5-3xfrwko6fg.gz",
-      "SourceId": "WebAppPcto",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/WebAppPcto",
-      "RelativePath": "Site#[.{fingerprint=3xfrwko6fg}]?.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Site.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "2si6qpsyzm",
-      "Integrity": "kkIOLcR1ncJI2p6kQYFXtOZqPobGAIRsydC8hB2e2+Q=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Site.js"
     },
     {
       "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\wlmhrnixrr-cosvhxvwiu.gz",
@@ -1128,48 +1149,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\zhi69yaibz-bf5huusk67.gz",
-      "SourceId": "WebAppPcto",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/WebAppPcto",
-      "RelativePath": "tuor2#[.{fingerprint=bf5huusk67}]?.html.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\tuor2.html",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "wigqkmhyhm",
-      "Integrity": "2O3kbGf6b6nFMXaLnJvT0BTKT6Qkx20XoNMfqzjZZug=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\tuor2.html"
-    },
-    {
-      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\A8fsozfeBOUgldVBJp9J--0--1j9ec-removebg-preview.png",
-      "SourceId": "WebAppPcto",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\",
-      "BasePath": "_content/WebAppPcto",
-      "RelativePath": "A8fsozfeBOUgldVBJp9J--0--1j9ec-removebg-preview#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "zj6iblz0te",
-      "Integrity": "UX9VyPVrHp7QYz6weZY8MJv2QOsPs0IS1WNTvaFeC8Y=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\A8fsozfeBOUgldVBJp9J--0--1j9ec-removebg-preview.png"
     },
     {
       "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\bootstrap\\css\\bootstrap.css",
@@ -4028,12 +4007,12 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\scss\\vendor\\_rfs.scss"
     },
     {
-      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\chiSonoIo.html",
+      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Img\\A8fsozfeBOUgldVBJp9J--0--1j9ec-removebg-preview.png",
       "SourceId": "WebAppPcto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\",
       "BasePath": "_content/WebAppPcto",
-      "RelativePath": "chiSonoIo#[.{fingerprint}]?.html",
+      "RelativePath": "Img/A8fsozfeBOUgldVBJp9J--0--1j9ec-removebg-preview#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4042,19 +4021,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "28rvzhd9t3",
-      "Integrity": "kpI5hWXIZ2sduWVJ9FT2dtuOwYWEZzSEB+i6p0wbvG0=",
+      "Fingerprint": "zj6iblz0te",
+      "Integrity": "UX9VyPVrHp7QYz6weZY8MJv2QOsPs0IS1WNTvaFeC8Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\chiSonoIo.html"
+      "OriginalItemSpec": "wwwroot\\Img\\A8fsozfeBOUgldVBJp9J--0--1j9ec-removebg-preview.png"
     },
     {
-      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\image-removebg-preview (24).png",
+      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Img\\image-removebg-preview (24).png",
       "SourceId": "WebAppPcto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\",
       "BasePath": "_content/WebAppPcto",
-      "RelativePath": "image-removebg-preview (24)#[.{fingerprint}]?.png",
+      "RelativePath": "Img/image-removebg-preview (24)#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4067,57 +4046,15 @@
       "Integrity": "aoGEAwQTBcQQ6V1c95zvdGIfp7T8IvvSXayiW6DUASY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image-removebg-preview (24).png"
+      "OriginalItemSpec": "wwwroot\\Img\\image-removebg-preview (24).png"
     },
     {
-      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Img\\Screenshot_2025-01-30_091845-removebg-preview.png",
       "SourceId": "WebAppPcto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\",
       "BasePath": "_content/WebAppPcto",
-      "RelativePath": "index#[.{fingerprint}]?.html",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "sdra97dgfp",
-      "Integrity": "IJ7zpOEW1KwJFrgnDnLujJmaWJmbCo0pOpgLzvutSB0=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\index.html"
-    },
-    {
-      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\prenotation.html",
-      "SourceId": "WebAppPcto",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\",
-      "BasePath": "_content/WebAppPcto",
-      "RelativePath": "prenotation#[.{fingerprint}]?.html",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "303ytxuxnh",
-      "Integrity": "s8SDXzgE+4xkASiWvT3DzR81Tx9Oo7LCzpBEGPj59uY=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\prenotation.html"
-    },
-    {
-      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Screenshot_2025-01-30_091845-removebg-preview.png",
-      "SourceId": "WebAppPcto",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\",
-      "BasePath": "_content/WebAppPcto",
-      "RelativePath": "Screenshot_2025-01-30_091845-removebg-preview#[.{fingerprint}]?.png",
+      "RelativePath": "Img/Screenshot_2025-01-30_091845-removebg-preview#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4130,15 +4067,15 @@
       "Integrity": "HjM5aPfI5oKqUxbMqMnYVKmJs3zZgyNbXOeZZ2CGspg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Screenshot_2025-01-30_091845-removebg-preview.png"
+      "OriginalItemSpec": "wwwroot\\Img\\Screenshot_2025-01-30_091845-removebg-preview.png"
     },
     {
-      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Screenshot_2025-01-30_102319-removebg-preview.png",
+      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Img\\Screenshot_2025-01-30_102319-removebg-preview.png",
       "SourceId": "WebAppPcto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\",
       "BasePath": "_content/WebAppPcto",
-      "RelativePath": "Screenshot_2025-01-30_102319-removebg-preview#[.{fingerprint}]?.png",
+      "RelativePath": "Img/Screenshot_2025-01-30_102319-removebg-preview#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4151,15 +4088,15 @@
       "Integrity": "eUtyy5x9iXpOmHRF4gkE3pBpOArZOYTPF5n6+MiHA6A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Screenshot_2025-01-30_102319-removebg-preview.png"
+      "OriginalItemSpec": "wwwroot\\Img\\Screenshot_2025-01-30_102319-removebg-preview.png"
     },
     {
-      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Site.js",
+      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Index\\chiSonoIo.html",
       "SourceId": "WebAppPcto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\",
       "BasePath": "_content/WebAppPcto",
-      "RelativePath": "Site#[.{fingerprint}]?.js",
+      "RelativePath": "Index/chiSonoIo#[.{fingerprint}]?.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4168,19 +4105,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "3xfrwko6fg",
-      "Integrity": "qYZ1cMIHKmv31dMuuibpE+V5z4hqLWy8BS6hS2Ox5Tc=",
+      "Fingerprint": "5080802gyl",
+      "Integrity": "e6+68a1zCkCIWu53at0dtUwLCrn56CQKE4RRdikxcpM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Site.js"
+      "OriginalItemSpec": "wwwroot\\Index\\chiSonoIo.html"
     },
     {
-      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\tuor1.html",
+      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Index\\index.html",
       "SourceId": "WebAppPcto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\",
       "BasePath": "_content/WebAppPcto",
-      "RelativePath": "tuor1#[.{fingerprint}]?.html",
+      "RelativePath": "Index/index#[.{fingerprint}]?.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4189,19 +4126,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "iijgekg7q5",
-      "Integrity": "yiTaPj974EMTosJlXFtVvd1knFUuIogpzO3zD6aFCuw=",
+      "Fingerprint": "x67yqey0f9",
+      "Integrity": "6cpKfuhil+d7jkYiYIpd9ZDBEccSFEQxj19GExZp1OY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\tuor1.html"
+      "OriginalItemSpec": "wwwroot\\Index\\index.html"
     },
     {
-      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\tuor2.html",
+      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Index\\prenotation.html",
       "SourceId": "WebAppPcto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\",
       "BasePath": "_content/WebAppPcto",
-      "RelativePath": "tuor2#[.{fingerprint}]?.html",
+      "RelativePath": "Index/prenotation#[.{fingerprint}]?.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4210,19 +4147,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "bf5huusk67",
-      "Integrity": "twtRQ7rTL8oBM4U03yQSpUS0fpTNLdxwLjZ+Tz02cT4=",
+      "Fingerprint": "ll7hrc9b81",
+      "Integrity": "R8QfHZLYjjiDJJI5qxEV9atGjnLElbf7wGiRIKx4tJg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\tuor2.html"
+      "OriginalItemSpec": "wwwroot\\Index\\prenotation.html"
     },
     {
-      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\tuor3.html",
+      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Script\\GetViaggi.js",
       "SourceId": "WebAppPcto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\",
       "BasePath": "_content/WebAppPcto",
-      "RelativePath": "tuor3#[.{fingerprint}]?.html",
+      "RelativePath": "Script/GetViaggi#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4231,19 +4168,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "uof70bmvew",
-      "Integrity": "0ojC1HbrorSKaVKdaZPzqD+z2B6OTrnfyFCDwGzUx1Y=",
+      "Fingerprint": "vwy9uf8r6q",
+      "Integrity": "/9IOf60cK9F8BgeKewYz6WDiRinBdlrxHclJJ7mcDIk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\tuor3.html"
+      "OriginalItemSpec": "wwwroot\\Script\\GetViaggi.js"
     },
     {
-      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\tuor4.html",
+      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\TourPages\\tuor1.html",
       "SourceId": "WebAppPcto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\",
       "BasePath": "_content/WebAppPcto",
-      "RelativePath": "tuor4#[.{fingerprint}]?.html",
+      "RelativePath": "TourPages/tuor1#[.{fingerprint}]?.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4252,19 +4189,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b8qkfgmsjx",
-      "Integrity": "y9C6tvCCoItsLBmUCknYgYYNINKC4UgSwIElQBczsGY=",
+      "Fingerprint": "w55p875q0t",
+      "Integrity": "nMVEUtPWDTv0u+mR7bEdJPb4VjPRPioYl5ISyvneNKw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\tuor4.html"
+      "OriginalItemSpec": "wwwroot\\TourPages\\tuor1.html"
     },
     {
-      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\tuor5.html",
+      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\TourPages\\tuor2.html",
       "SourceId": "WebAppPcto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\",
       "BasePath": "_content/WebAppPcto",
-      "RelativePath": "tuor5#[.{fingerprint}]?.html",
+      "RelativePath": "TourPages/tuor2#[.{fingerprint}]?.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4273,19 +4210,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "s2gwgfdd1s",
-      "Integrity": "ZNU+tYSmIzEv6EExNl0bIRqmmY6rSfHRp0n/+ICfbuQ=",
+      "Fingerprint": "9rh9lxtlqx",
+      "Integrity": "29Th/GjQz06MmoQXf+AUUm0xMTjYi+Dfw16AljCceao=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\tuor5.html"
+      "OriginalItemSpec": "wwwroot\\TourPages\\tuor2.html"
     },
     {
-      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\tuor6.html",
+      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\TourPages\\tuor3.html",
       "SourceId": "WebAppPcto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\",
       "BasePath": "_content/WebAppPcto",
-      "RelativePath": "tuor6#[.{fingerprint}]?.html",
+      "RelativePath": "TourPages/tuor3#[.{fingerprint}]?.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4294,96 +4231,77 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xlaqd2pfl6",
-      "Integrity": "y4L/dvR/d/rllgfo6NfPvCKoigpI5vNseEogyzGj+e4=",
+      "Fingerprint": "mrjs5vwt1i",
+      "Integrity": "7mtJ0f+L4GXoz5ODyTn9sRbaLdKM/xzg7x1s7YQKHUk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\tuor6.html"
+      "OriginalItemSpec": "wwwroot\\TourPages\\tuor3.html"
+    },
+    {
+      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\TourPages\\tuor4.html",
+      "SourceId": "WebAppPcto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\",
+      "BasePath": "_content/WebAppPcto",
+      "RelativePath": "TourPages/tuor4#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cytqzphzdi",
+      "Integrity": "JPE1NrSlPThs3o2NWfTOVZ0cn4c6p3X6wjL51aZrqQ8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\TourPages\\tuor4.html"
+    },
+    {
+      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\TourPages\\tuor5.html",
+      "SourceId": "WebAppPcto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\",
+      "BasePath": "_content/WebAppPcto",
+      "RelativePath": "TourPages/tuor5#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z0q18zfwsc",
+      "Integrity": "/WGHdS73/m7Sv9VNj+drWl3yAyK0EqbGKAtkXroMJYo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\TourPages\\tuor5.html"
+    },
+    {
+      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\TourPages\\tuor6.html",
+      "SourceId": "WebAppPcto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\",
+      "BasePath": "_content/WebAppPcto",
+      "RelativePath": "TourPages/tuor6#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oqp1qeg8tb",
+      "Integrity": "cHVDaWfunV+fYkd2DZ4fya8ULkIa4NkK+bwi/jw2oWU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\TourPages\\tuor6.html"
     }
   ],
   "Endpoints": [
-    {
-      "Route": "A8fsozfeBOUgldVBJp9J--0--1j9ec-removebg-preview.png",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\A8fsozfeBOUgldVBJp9J--0--1j9ec-removebg-preview.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "305542"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"UX9VyPVrHp7QYz6weZY8MJv2QOsPs0IS1WNTvaFeC8Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 30 Jan 2025 10:29:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-UX9VyPVrHp7QYz6weZY8MJv2QOsPs0IS1WNTvaFeC8Y="
-        }
-      ]
-    },
-    {
-      "Route": "A8fsozfeBOUgldVBJp9J--0--1j9ec-removebg-preview.zj6iblz0te.png",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\A8fsozfeBOUgldVBJp9J--0--1j9ec-removebg-preview.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "305542"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"UX9VyPVrHp7QYz6weZY8MJv2QOsPs0IS1WNTvaFeC8Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 30 Jan 2025 10:29:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zj6iblz0te"
-        },
-        {
-          "Name": "label",
-          "Value": "A8fsozfeBOUgldVBJp9J--0--1j9ec-removebg-preview.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-UX9VyPVrHp7QYz6weZY8MJv2QOsPs0IS1WNTvaFeC8Y="
-        }
-      ]
-    },
     {
       "Route": "bootstrap/css/bootstrap.css",
       "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\qgnblh1d1k-s35ty4nyc5.gz",
@@ -25041,71 +24959,8 @@
       ]
     },
     {
-      "Route": "chiSonoIo.28rvzhd9t3.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\av5kegzjnj-28rvzhd9t3.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000402414487"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2484"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"MG2H2+B2vvwPMGmLK0MdpulI3j9OHVYHebkgtFeaGRE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:19:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"kpI5hWXIZ2sduWVJ9FT2dtuOwYWEZzSEB+i6p0wbvG0=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "28rvzhd9t3"
-        },
-        {
-          "Name": "label",
-          "Value": "chiSonoIo.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-kpI5hWXIZ2sduWVJ9FT2dtuOwYWEZzSEB+i6p0wbvG0="
-        }
-      ]
-    },
-    {
-      "Route": "chiSonoIo.28rvzhd9t3.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\chiSonoIo.html",
+      "Route": "Img/A8fsozfeBOUgldVBJp9J--0--1j9ec-removebg-preview.png",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Img\\A8fsozfeBOUgldVBJp9J--0--1j9ec-removebg-preview.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -25114,19 +24969,56 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8491"
+          "Value": "305542"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/html"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"kpI5hWXIZ2sduWVJ9FT2dtuOwYWEZzSEB+i6p0wbvG0=\""
+          "Value": "\"UX9VyPVrHp7QYz6weZY8MJv2QOsPs0IS1WNTvaFeC8Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:19:30 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UX9VyPVrHp7QYz6weZY8MJv2QOsPs0IS1WNTvaFeC8Y="
+        }
+      ]
+    },
+    {
+      "Route": "Img/A8fsozfeBOUgldVBJp9J--0--1j9ec-removebg-preview.zj6iblz0te.png",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Img\\A8fsozfeBOUgldVBJp9J--0--1j9ec-removebg-preview.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "305542"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UX9VyPVrHp7QYz6weZY8MJv2QOsPs0IS1WNTvaFeC8Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25136,211 +25028,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "28rvzhd9t3"
+          "Value": "zj6iblz0te"
         },
         {
           "Name": "label",
-          "Value": "chiSonoIo.html"
+          "Value": "Img/A8fsozfeBOUgldVBJp9J--0--1j9ec-removebg-preview.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kpI5hWXIZ2sduWVJ9FT2dtuOwYWEZzSEB+i6p0wbvG0="
+          "Value": "sha256-UX9VyPVrHp7QYz6weZY8MJv2QOsPs0IS1WNTvaFeC8Y="
         }
       ]
     },
     {
-      "Route": "chiSonoIo.28rvzhd9t3.html.gz",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\av5kegzjnj-28rvzhd9t3.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2484"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"MG2H2+B2vvwPMGmLK0MdpulI3j9OHVYHebkgtFeaGRE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:19:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "28rvzhd9t3"
-        },
-        {
-          "Name": "label",
-          "Value": "chiSonoIo.html.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-MG2H2+B2vvwPMGmLK0MdpulI3j9OHVYHebkgtFeaGRE="
-        }
-      ]
-    },
-    {
-      "Route": "chiSonoIo.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\av5kegzjnj-28rvzhd9t3.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000402414487"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2484"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"MG2H2+B2vvwPMGmLK0MdpulI3j9OHVYHebkgtFeaGRE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:19:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"kpI5hWXIZ2sduWVJ9FT2dtuOwYWEZzSEB+i6p0wbvG0=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-kpI5hWXIZ2sduWVJ9FT2dtuOwYWEZzSEB+i6p0wbvG0="
-        }
-      ]
-    },
-    {
-      "Route": "chiSonoIo.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\chiSonoIo.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8491"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kpI5hWXIZ2sduWVJ9FT2dtuOwYWEZzSEB+i6p0wbvG0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:19:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-kpI5hWXIZ2sduWVJ9FT2dtuOwYWEZzSEB+i6p0wbvG0="
-        }
-      ]
-    },
-    {
-      "Route": "chiSonoIo.html.gz",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\av5kegzjnj-28rvzhd9t3.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2484"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"MG2H2+B2vvwPMGmLK0MdpulI3j9OHVYHebkgtFeaGRE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:19:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-MG2H2+B2vvwPMGmLK0MdpulI3j9OHVYHebkgtFeaGRE="
-        }
-      ]
-    },
-    {
-      "Route": "image-removebg-preview (24).png",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\image-removebg-preview (24).png",
+      "Route": "Img/image-removebg-preview (24).png",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Img\\image-removebg-preview (24).png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -25361,7 +25063,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 14:38:36 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25376,8 +25078,8 @@
       ]
     },
     {
-      "Route": "image-removebg-preview (24).yupy2a2o2i.png",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\image-removebg-preview (24).png",
+      "Route": "Img/image-removebg-preview (24).yupy2a2o2i.png",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Img\\image-removebg-preview (24).png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -25398,7 +25100,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 14:38:36 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25412,7 +25114,7 @@
         },
         {
           "Name": "label",
-          "Value": "image-removebg-preview (24).png"
+          "Value": "Img/image-removebg-preview (24).png"
         },
         {
           "Name": "integrity",
@@ -25421,604 +25123,8 @@
       ]
     },
     {
-      "Route": "index.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\ixyws8i0ns-sdra97dgfp.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000330687831"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3023"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"WU2VzseuASisuYaep6BxVrSgMOqb7RO4lagA3IVoVhQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:18:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"IJ7zpOEW1KwJFrgnDnLujJmaWJmbCo0pOpgLzvutSB0=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-IJ7zpOEW1KwJFrgnDnLujJmaWJmbCo0pOpgLzvutSB0="
-        }
-      ]
-    },
-    {
-      "Route": "index.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\index.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16514"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"IJ7zpOEW1KwJFrgnDnLujJmaWJmbCo0pOpgLzvutSB0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:18:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-IJ7zpOEW1KwJFrgnDnLujJmaWJmbCo0pOpgLzvutSB0="
-        }
-      ]
-    },
-    {
-      "Route": "index.html.gz",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\ixyws8i0ns-sdra97dgfp.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3023"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"WU2VzseuASisuYaep6BxVrSgMOqb7RO4lagA3IVoVhQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:18:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-WU2VzseuASisuYaep6BxVrSgMOqb7RO4lagA3IVoVhQ="
-        }
-      ]
-    },
-    {
-      "Route": "index.sdra97dgfp.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\ixyws8i0ns-sdra97dgfp.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000330687831"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3023"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"WU2VzseuASisuYaep6BxVrSgMOqb7RO4lagA3IVoVhQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:18:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"IJ7zpOEW1KwJFrgnDnLujJmaWJmbCo0pOpgLzvutSB0=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "sdra97dgfp"
-        },
-        {
-          "Name": "label",
-          "Value": "index.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-IJ7zpOEW1KwJFrgnDnLujJmaWJmbCo0pOpgLzvutSB0="
-        }
-      ]
-    },
-    {
-      "Route": "index.sdra97dgfp.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\index.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16514"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"IJ7zpOEW1KwJFrgnDnLujJmaWJmbCo0pOpgLzvutSB0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:18:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "sdra97dgfp"
-        },
-        {
-          "Name": "label",
-          "Value": "index.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-IJ7zpOEW1KwJFrgnDnLujJmaWJmbCo0pOpgLzvutSB0="
-        }
-      ]
-    },
-    {
-      "Route": "index.sdra97dgfp.html.gz",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\ixyws8i0ns-sdra97dgfp.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3023"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"WU2VzseuASisuYaep6BxVrSgMOqb7RO4lagA3IVoVhQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:18:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "sdra97dgfp"
-        },
-        {
-          "Name": "label",
-          "Value": "index.html.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-WU2VzseuASisuYaep6BxVrSgMOqb7RO4lagA3IVoVhQ="
-        }
-      ]
-    },
-    {
-      "Route": "prenotation.303ytxuxnh.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\f5nv1vddx3-303ytxuxnh.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000364830354"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2740"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"aYbLVgvkZfpMH3LoQmqLXvXpK+M9QKAL981MQcqdQ9E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 07:53:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"s8SDXzgE+4xkASiWvT3DzR81Tx9Oo7LCzpBEGPj59uY=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "303ytxuxnh"
-        },
-        {
-          "Name": "label",
-          "Value": "prenotation.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-s8SDXzgE+4xkASiWvT3DzR81Tx9Oo7LCzpBEGPj59uY="
-        }
-      ]
-    },
-    {
-      "Route": "prenotation.303ytxuxnh.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\prenotation.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "10591"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"s8SDXzgE+4xkASiWvT3DzR81Tx9Oo7LCzpBEGPj59uY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 07:53:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "303ytxuxnh"
-        },
-        {
-          "Name": "label",
-          "Value": "prenotation.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-s8SDXzgE+4xkASiWvT3DzR81Tx9Oo7LCzpBEGPj59uY="
-        }
-      ]
-    },
-    {
-      "Route": "prenotation.303ytxuxnh.html.gz",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\f5nv1vddx3-303ytxuxnh.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2740"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"aYbLVgvkZfpMH3LoQmqLXvXpK+M9QKAL981MQcqdQ9E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 07:53:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "303ytxuxnh"
-        },
-        {
-          "Name": "label",
-          "Value": "prenotation.html.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-aYbLVgvkZfpMH3LoQmqLXvXpK+M9QKAL981MQcqdQ9E="
-        }
-      ]
-    },
-    {
-      "Route": "prenotation.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\f5nv1vddx3-303ytxuxnh.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000364830354"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2740"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"aYbLVgvkZfpMH3LoQmqLXvXpK+M9QKAL981MQcqdQ9E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 07:53:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"s8SDXzgE+4xkASiWvT3DzR81Tx9Oo7LCzpBEGPj59uY=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-s8SDXzgE+4xkASiWvT3DzR81Tx9Oo7LCzpBEGPj59uY="
-        }
-      ]
-    },
-    {
-      "Route": "prenotation.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\prenotation.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "10591"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"s8SDXzgE+4xkASiWvT3DzR81Tx9Oo7LCzpBEGPj59uY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 07:53:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-s8SDXzgE+4xkASiWvT3DzR81Tx9Oo7LCzpBEGPj59uY="
-        }
-      ]
-    },
-    {
-      "Route": "prenotation.html.gz",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\f5nv1vddx3-303ytxuxnh.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2740"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"aYbLVgvkZfpMH3LoQmqLXvXpK+M9QKAL981MQcqdQ9E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 07:53:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-aYbLVgvkZfpMH3LoQmqLXvXpK+M9QKAL981MQcqdQ9E="
-        }
-      ]
-    },
-    {
-      "Route": "Screenshot_2025-01-30_091845-removebg-preview.png",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Screenshot_2025-01-30_091845-removebg-preview.png",
+      "Route": "Img/Screenshot_2025-01-30_091845-removebg-preview.png",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Img\\Screenshot_2025-01-30_091845-removebg-preview.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -26039,7 +25145,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Jan 2025 16:20:06 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26054,8 +25160,8 @@
       ]
     },
     {
-      "Route": "Screenshot_2025-01-30_091845-removebg-preview.utndbu3zsm.png",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Screenshot_2025-01-30_091845-removebg-preview.png",
+      "Route": "Img/Screenshot_2025-01-30_091845-removebg-preview.utndbu3zsm.png",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Img\\Screenshot_2025-01-30_091845-removebg-preview.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -26076,7 +25182,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Jan 2025 16:20:06 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26090,7 +25196,7 @@
         },
         {
           "Name": "label",
-          "Value": "Screenshot_2025-01-30_091845-removebg-preview.png"
+          "Value": "Img/Screenshot_2025-01-30_091845-removebg-preview.png"
         },
         {
           "Name": "integrity",
@@ -26099,8 +25205,8 @@
       ]
     },
     {
-      "Route": "Screenshot_2025-01-30_102319-removebg-preview.png",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Screenshot_2025-01-30_102319-removebg-preview.png",
+      "Route": "Img/Screenshot_2025-01-30_102319-removebg-preview.png",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Img\\Screenshot_2025-01-30_102319-removebg-preview.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -26121,7 +25227,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Jan 2025 16:25:18 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26136,8 +25242,8 @@
       ]
     },
     {
-      "Route": "Screenshot_2025-01-30_102319-removebg-preview.x6kt8a569f.png",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Screenshot_2025-01-30_102319-removebg-preview.png",
+      "Route": "Img/Screenshot_2025-01-30_102319-removebg-preview.x6kt8a569f.png",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Img\\Screenshot_2025-01-30_102319-removebg-preview.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -26158,7 +25264,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Jan 2025 16:25:18 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26172,7 +25278,7 @@
         },
         {
           "Name": "label",
-          "Value": "Screenshot_2025-01-30_102319-removebg-preview.png"
+          "Value": "Img/Screenshot_2025-01-30_102319-removebg-preview.png"
         },
         {
           "Name": "integrity",
@@ -26181,13 +25287,13 @@
       ]
     },
     {
-      "Route": "Site.3xfrwko6fg.js",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\w3ja9jjpp5-3xfrwko6fg.gz",
+      "Route": "Index/chiSonoIo.5080802gyl.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\91at0ptgh9-5080802gyl.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003610108303"
+          "Quality": "0.000408663670"
         }
       ],
       "ResponseHeaders": [
@@ -26197,15 +25303,1046 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "276"
+          "Value": "2446"
         },
         {
           "Name": "ETag",
-          "Value": "\"kkIOLcR1ncJI2p6kQYFXtOZqPobGAIRsydC8hB2e2+Q=\""
+          "Value": "\"W1ifEJi9luxzRYMS7Cf0+y2TQWWYbUr8RQzrqmxvvXY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 15:22:12 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"e6+68a1zCkCIWu53at0dtUwLCrn56CQKE4RRdikxcpM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5080802gyl"
+        },
+        {
+          "Name": "label",
+          "Value": "Index/chiSonoIo.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e6+68a1zCkCIWu53at0dtUwLCrn56CQKE4RRdikxcpM="
+        }
+      ]
+    },
+    {
+      "Route": "Index/chiSonoIo.5080802gyl.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Index\\chiSonoIo.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7838"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e6+68a1zCkCIWu53at0dtUwLCrn56CQKE4RRdikxcpM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5080802gyl"
+        },
+        {
+          "Name": "label",
+          "Value": "Index/chiSonoIo.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e6+68a1zCkCIWu53at0dtUwLCrn56CQKE4RRdikxcpM="
+        }
+      ]
+    },
+    {
+      "Route": "Index/chiSonoIo.5080802gyl.html.gz",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\91at0ptgh9-5080802gyl.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2446"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W1ifEJi9luxzRYMS7Cf0+y2TQWWYbUr8RQzrqmxvvXY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5080802gyl"
+        },
+        {
+          "Name": "label",
+          "Value": "Index/chiSonoIo.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W1ifEJi9luxzRYMS7Cf0+y2TQWWYbUr8RQzrqmxvvXY="
+        }
+      ]
+    },
+    {
+      "Route": "Index/chiSonoIo.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\91at0ptgh9-5080802gyl.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000408663670"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2446"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W1ifEJi9luxzRYMS7Cf0+y2TQWWYbUr8RQzrqmxvvXY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"e6+68a1zCkCIWu53at0dtUwLCrn56CQKE4RRdikxcpM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e6+68a1zCkCIWu53at0dtUwLCrn56CQKE4RRdikxcpM="
+        }
+      ]
+    },
+    {
+      "Route": "Index/chiSonoIo.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Index\\chiSonoIo.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7838"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e6+68a1zCkCIWu53at0dtUwLCrn56CQKE4RRdikxcpM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e6+68a1zCkCIWu53at0dtUwLCrn56CQKE4RRdikxcpM="
+        }
+      ]
+    },
+    {
+      "Route": "Index/chiSonoIo.html.gz",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\91at0ptgh9-5080802gyl.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2446"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W1ifEJi9luxzRYMS7Cf0+y2TQWWYbUr8RQzrqmxvvXY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W1ifEJi9luxzRYMS7Cf0+y2TQWWYbUr8RQzrqmxvvXY="
+        }
+      ]
+    },
+    {
+      "Route": "Index/index.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\cpwue36gyu-x67yqey0f9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000332889481"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3003"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WxWEZYm24esEQzBT/p6kjOWKCC1Chu1zHYaJhLfOMo8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6cpKfuhil+d7jkYiYIpd9ZDBEccSFEQxj19GExZp1OY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6cpKfuhil+d7jkYiYIpd9ZDBEccSFEQxj19GExZp1OY="
+        }
+      ]
+    },
+    {
+      "Route": "Index/index.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Index\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15587"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6cpKfuhil+d7jkYiYIpd9ZDBEccSFEQxj19GExZp1OY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6cpKfuhil+d7jkYiYIpd9ZDBEccSFEQxj19GExZp1OY="
+        }
+      ]
+    },
+    {
+      "Route": "Index/index.html.gz",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\cpwue36gyu-x67yqey0f9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WxWEZYm24esEQzBT/p6kjOWKCC1Chu1zHYaJhLfOMo8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WxWEZYm24esEQzBT/p6kjOWKCC1Chu1zHYaJhLfOMo8="
+        }
+      ]
+    },
+    {
+      "Route": "Index/index.x67yqey0f9.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\cpwue36gyu-x67yqey0f9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000332889481"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3003"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WxWEZYm24esEQzBT/p6kjOWKCC1Chu1zHYaJhLfOMo8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6cpKfuhil+d7jkYiYIpd9ZDBEccSFEQxj19GExZp1OY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x67yqey0f9"
+        },
+        {
+          "Name": "label",
+          "Value": "Index/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6cpKfuhil+d7jkYiYIpd9ZDBEccSFEQxj19GExZp1OY="
+        }
+      ]
+    },
+    {
+      "Route": "Index/index.x67yqey0f9.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Index\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15587"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6cpKfuhil+d7jkYiYIpd9ZDBEccSFEQxj19GExZp1OY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x67yqey0f9"
+        },
+        {
+          "Name": "label",
+          "Value": "Index/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6cpKfuhil+d7jkYiYIpd9ZDBEccSFEQxj19GExZp1OY="
+        }
+      ]
+    },
+    {
+      "Route": "Index/index.x67yqey0f9.html.gz",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\cpwue36gyu-x67yqey0f9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WxWEZYm24esEQzBT/p6kjOWKCC1Chu1zHYaJhLfOMo8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x67yqey0f9"
+        },
+        {
+          "Name": "label",
+          "Value": "Index/index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WxWEZYm24esEQzBT/p6kjOWKCC1Chu1zHYaJhLfOMo8="
+        }
+      ]
+    },
+    {
+      "Route": "Index/prenotation.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\jjoseq9rj8-ll7hrc9b81.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000369685767"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2704"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mfFbsAAWi086juifoHUXQz8Ul4sTsqNE/ACWYH/0hUQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"R8QfHZLYjjiDJJI5qxEV9atGjnLElbf7wGiRIKx4tJg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R8QfHZLYjjiDJJI5qxEV9atGjnLElbf7wGiRIKx4tJg="
+        }
+      ]
+    },
+    {
+      "Route": "Index/prenotation.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Index\\prenotation.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9744"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R8QfHZLYjjiDJJI5qxEV9atGjnLElbf7wGiRIKx4tJg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R8QfHZLYjjiDJJI5qxEV9atGjnLElbf7wGiRIKx4tJg="
+        }
+      ]
+    },
+    {
+      "Route": "Index/prenotation.html.gz",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\jjoseq9rj8-ll7hrc9b81.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mfFbsAAWi086juifoHUXQz8Ul4sTsqNE/ACWYH/0hUQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mfFbsAAWi086juifoHUXQz8Ul4sTsqNE/ACWYH/0hUQ="
+        }
+      ]
+    },
+    {
+      "Route": "Index/prenotation.ll7hrc9b81.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\jjoseq9rj8-ll7hrc9b81.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000369685767"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2704"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mfFbsAAWi086juifoHUXQz8Ul4sTsqNE/ACWYH/0hUQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"R8QfHZLYjjiDJJI5qxEV9atGjnLElbf7wGiRIKx4tJg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ll7hrc9b81"
+        },
+        {
+          "Name": "label",
+          "Value": "Index/prenotation.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R8QfHZLYjjiDJJI5qxEV9atGjnLElbf7wGiRIKx4tJg="
+        }
+      ]
+    },
+    {
+      "Route": "Index/prenotation.ll7hrc9b81.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Index\\prenotation.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9744"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R8QfHZLYjjiDJJI5qxEV9atGjnLElbf7wGiRIKx4tJg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ll7hrc9b81"
+        },
+        {
+          "Name": "label",
+          "Value": "Index/prenotation.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R8QfHZLYjjiDJJI5qxEV9atGjnLElbf7wGiRIKx4tJg="
+        }
+      ]
+    },
+    {
+      "Route": "Index/prenotation.ll7hrc9b81.html.gz",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\jjoseq9rj8-ll7hrc9b81.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mfFbsAAWi086juifoHUXQz8Ul4sTsqNE/ACWYH/0hUQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ll7hrc9b81"
+        },
+        {
+          "Name": "label",
+          "Value": "Index/prenotation.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mfFbsAAWi086juifoHUXQz8Ul4sTsqNE/ACWYH/0hUQ="
+        }
+      ]
+    },
+    {
+      "Route": "Script/GetViaggi.js",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\ec79a0qdxt-vwy9uf8r6q.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003521126761"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "283"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g7Xj0B1rc11NTB5kknmh8/LOf8U3zQIsNfEu03TTpLk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/9IOf60cK9F8BgeKewYz6WDiRinBdlrxHclJJ7mcDIk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/9IOf60cK9F8BgeKewYz6WDiRinBdlrxHclJJ7mcDIk="
+        }
+      ]
+    },
+    {
+      "Route": "Script/GetViaggi.js",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Script\\GetViaggi.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "541"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/9IOf60cK9F8BgeKewYz6WDiRinBdlrxHclJJ7mcDIk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/9IOf60cK9F8BgeKewYz6WDiRinBdlrxHclJJ7mcDIk="
+        }
+      ]
+    },
+    {
+      "Route": "Script/GetViaggi.js.gz",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\ec79a0qdxt-vwy9uf8r6q.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "283"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g7Xj0B1rc11NTB5kknmh8/LOf8U3zQIsNfEu03TTpLk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-g7Xj0B1rc11NTB5kknmh8/LOf8U3zQIsNfEu03TTpLk="
+        }
+      ]
+    },
+    {
+      "Route": "Script/GetViaggi.vwy9uf8r6q.js",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\ec79a0qdxt-vwy9uf8r6q.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003521126761"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "283"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g7Xj0B1rc11NTB5kknmh8/LOf8U3zQIsNfEu03TTpLk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26225,27 +26362,27 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"qYZ1cMIHKmv31dMuuibpE+V5z4hqLWy8BS6hS2Ox5Tc=\""
+          "Value": "W/\"/9IOf60cK9F8BgeKewYz6WDiRinBdlrxHclJJ7mcDIk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3xfrwko6fg"
+          "Value": "vwy9uf8r6q"
         },
         {
           "Name": "label",
-          "Value": "Site.js"
+          "Value": "Script/GetViaggi.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-qYZ1cMIHKmv31dMuuibpE+V5z4hqLWy8BS6hS2Ox5Tc="
+          "Value": "sha256-/9IOf60cK9F8BgeKewYz6WDiRinBdlrxHclJJ7mcDIk="
         }
       ]
     },
     {
-      "Route": "Site.3xfrwko6fg.js",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Site.js",
+      "Route": "Script/GetViaggi.vwy9uf8r6q.js",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Script\\GetViaggi.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -26254,7 +26391,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "523"
+          "Value": "541"
         },
         {
           "Name": "Content-Type",
@@ -26262,11 +26399,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qYZ1cMIHKmv31dMuuibpE+V5z4hqLWy8BS6hS2Ox5Tc=\""
+          "Value": "\"/9IOf60cK9F8BgeKewYz6WDiRinBdlrxHclJJ7mcDIk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 15:22:12 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26276,21 +26413,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3xfrwko6fg"
+          "Value": "vwy9uf8r6q"
         },
         {
           "Name": "label",
-          "Value": "Site.js"
+          "Value": "Script/GetViaggi.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-qYZ1cMIHKmv31dMuuibpE+V5z4hqLWy8BS6hS2Ox5Tc="
+          "Value": "sha256-/9IOf60cK9F8BgeKewYz6WDiRinBdlrxHclJJ7mcDIk="
         }
       ]
     },
     {
-      "Route": "Site.3xfrwko6fg.js.gz",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\w3ja9jjpp5-3xfrwko6fg.gz",
+      "Route": "Script/GetViaggi.vwy9uf8r6q.js.gz",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\ec79a0qdxt-vwy9uf8r6q.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -26299,7 +26436,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "276"
+          "Value": "283"
         },
         {
           "Name": "Content-Type",
@@ -26307,11 +26444,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kkIOLcR1ncJI2p6kQYFXtOZqPobGAIRsydC8hB2e2+Q=\""
+          "Value": "\"g7Xj0B1rc11NTB5kknmh8/LOf8U3zQIsNfEu03TTpLk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 15:22:12 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26329,26 +26466,26 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3xfrwko6fg"
+          "Value": "vwy9uf8r6q"
         },
         {
           "Name": "label",
-          "Value": "Site.js.gz"
+          "Value": "Script/GetViaggi.js.gz"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kkIOLcR1ncJI2p6kQYFXtOZqPobGAIRsydC8hB2e2+Q="
+          "Value": "sha256-g7Xj0B1rc11NTB5kknmh8/LOf8U3zQIsNfEu03TTpLk="
         }
       ]
     },
     {
-      "Route": "Site.js",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\w3ja9jjpp5-3xfrwko6fg.gz",
+      "Route": "TourPages/tuor1.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\d1rv8z0hiv-w55p875q0t.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003610108303"
+          "Quality": "0.000315656566"
         }
       ],
       "ResponseHeaders": [
@@ -26358,15 +26495,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "276"
+          "Value": "3167"
         },
         {
           "Name": "ETag",
-          "Value": "\"kkIOLcR1ncJI2p6kQYFXtOZqPobGAIRsydC8hB2e2+Q=\""
+          "Value": "\"uooxxolVAJT22DPPMZ4oUDUj5JUSD25VgNsMJnnxRcg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 15:22:12 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26382,23 +26519,23 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "text/javascript"
+          "Value": "text/html"
         },
         {
           "Name": "ETag",
-          "Value": "W/\"qYZ1cMIHKmv31dMuuibpE+V5z4hqLWy8BS6hS2Ox5Tc=\""
+          "Value": "W/\"nMVEUtPWDTv0u+mR7bEdJPb4VjPRPioYl5ISyvneNKw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-qYZ1cMIHKmv31dMuuibpE+V5z4hqLWy8BS6hS2Ox5Tc="
+          "Value": "sha256-nMVEUtPWDTv0u+mR7bEdJPb4VjPRPioYl5ISyvneNKw="
         }
       ]
     },
     {
-      "Route": "Site.js",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Site.js",
+      "Route": "TourPages/tuor1.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\TourPages\\tuor1.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -26407,19 +26544,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "523"
+          "Value": "10800"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/javascript"
+          "Value": "text/html"
         },
         {
           "Name": "ETag",
-          "Value": "\"qYZ1cMIHKmv31dMuuibpE+V5z4hqLWy8BS6hS2Ox5Tc=\""
+          "Value": "\"nMVEUtPWDTv0u+mR7bEdJPb4VjPRPioYl5ISyvneNKw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 15:22:12 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26429,13 +26566,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-qYZ1cMIHKmv31dMuuibpE+V5z4hqLWy8BS6hS2Ox5Tc="
+          "Value": "sha256-nMVEUtPWDTv0u+mR7bEdJPb4VjPRPioYl5ISyvneNKw="
         }
       ]
     },
     {
-      "Route": "Site.js.gz",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\w3ja9jjpp5-3xfrwko6fg.gz",
+      "Route": "TourPages/tuor1.html.gz",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\d1rv8z0hiv-w55p875q0t.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -26444,19 +26581,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "276"
+          "Value": "3167"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/javascript"
+          "Value": "text/html"
         },
         {
           "Name": "ETag",
-          "Value": "\"kkIOLcR1ncJI2p6kQYFXtOZqPobGAIRsydC8hB2e2+Q=\""
+          "Value": "\"uooxxolVAJT22DPPMZ4oUDUj5JUSD25VgNsMJnnxRcg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 15:22:12 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26474,18 +26611,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-kkIOLcR1ncJI2p6kQYFXtOZqPobGAIRsydC8hB2e2+Q="
+          "Value": "sha256-uooxxolVAJT22DPPMZ4oUDUj5JUSD25VgNsMJnnxRcg="
         }
       ]
     },
     {
-      "Route": "tuor1.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\nhwku8iv7r-iijgekg7q5.gz",
+      "Route": "TourPages/tuor1.w55p875q0t.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\d1rv8z0hiv-w55p875q0t.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000311235605"
+          "Quality": "0.000315656566"
         }
       ],
       "ResponseHeaders": [
@@ -26495,19 +26632,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3212"
+          "Value": "3167"
         },
         {
           "Name": "ETag",
-          "Value": "\"CPj1Qr84wNo/lX/gIxaPb+i243Gqwm1OMNVXcWgBXOg=\""
+          "Value": "\"uooxxolVAJT22DPPMZ4oUDUj5JUSD25VgNsMJnnxRcg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 14:30:48 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -26523,19 +26660,27 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"yiTaPj974EMTosJlXFtVvd1knFUuIogpzO3zD6aFCuw=\""
+          "Value": "W/\"nMVEUtPWDTv0u+mR7bEdJPb4VjPRPioYl5ISyvneNKw=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "w55p875q0t"
+        },
+        {
+          "Name": "label",
+          "Value": "TourPages/tuor1.html"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-yiTaPj974EMTosJlXFtVvd1knFUuIogpzO3zD6aFCuw="
+          "Value": "sha256-nMVEUtPWDTv0u+mR7bEdJPb4VjPRPioYl5ISyvneNKw="
         }
       ]
     },
     {
-      "Route": "tuor1.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\tuor1.html",
+      "Route": "TourPages/tuor1.w55p875q0t.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\TourPages\\tuor1.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -26544,7 +26689,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11559"
+          "Value": "10800"
         },
         {
           "Name": "Content-Type",
@@ -26552,27 +26697,35 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"yiTaPj974EMTosJlXFtVvd1knFUuIogpzO3zD6aFCuw=\""
+          "Value": "\"nMVEUtPWDTv0u+mR7bEdJPb4VjPRPioYl5ISyvneNKw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 14:30:48 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "w55p875q0t"
+        },
+        {
+          "Name": "label",
+          "Value": "TourPages/tuor1.html"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-yiTaPj974EMTosJlXFtVvd1knFUuIogpzO3zD6aFCuw="
+          "Value": "sha256-nMVEUtPWDTv0u+mR7bEdJPb4VjPRPioYl5ISyvneNKw="
         }
       ]
     },
     {
-      "Route": "tuor1.html.gz",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\nhwku8iv7r-iijgekg7q5.gz",
+      "Route": "TourPages/tuor1.w55p875q0t.html.gz",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\d1rv8z0hiv-w55p875q0t.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -26581,7 +26734,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3212"
+          "Value": "3167"
         },
         {
           "Name": "Content-Type",
@@ -26589,15 +26742,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CPj1Qr84wNo/lX/gIxaPb+i243Gqwm1OMNVXcWgBXOg=\""
+          "Value": "\"uooxxolVAJT22DPPMZ4oUDUj5JUSD25VgNsMJnnxRcg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 14:30:48 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -26610,19 +26763,27 @@
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "w55p875q0t"
+        },
+        {
+          "Name": "label",
+          "Value": "TourPages/tuor1.html.gz"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-CPj1Qr84wNo/lX/gIxaPb+i243Gqwm1OMNVXcWgBXOg="
+          "Value": "sha256-uooxxolVAJT22DPPMZ4oUDUj5JUSD25VgNsMJnnxRcg="
         }
       ]
     },
     {
-      "Route": "tuor1.iijgekg7q5.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\nhwku8iv7r-iijgekg7q5.gz",
+      "Route": "TourPages/tuor2.9rh9lxtlqx.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\75p7hpoqdq-9rh9lxtlqx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000311235605"
+          "Quality": "0.000302571861"
         }
       ],
       "ResponseHeaders": [
@@ -26632,15 +26793,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3212"
+          "Value": "3304"
         },
         {
           "Name": "ETag",
-          "Value": "\"CPj1Qr84wNo/lX/gIxaPb+i243Gqwm1OMNVXcWgBXOg=\""
+          "Value": "\"+Sxt5y9e7Amb+thnDBrM4wQbfUGiSABF5TpXpyRxyfE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 14:30:48 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26660,27 +26821,27 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"yiTaPj974EMTosJlXFtVvd1knFUuIogpzO3zD6aFCuw=\""
+          "Value": "W/\"29Th/GjQz06MmoQXf+AUUm0xMTjYi+Dfw16AljCceao=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "iijgekg7q5"
+          "Value": "9rh9lxtlqx"
         },
         {
           "Name": "label",
-          "Value": "tuor1.html"
+          "Value": "TourPages/tuor2.html"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-yiTaPj974EMTosJlXFtVvd1knFUuIogpzO3zD6aFCuw="
+          "Value": "sha256-29Th/GjQz06MmoQXf+AUUm0xMTjYi+Dfw16AljCceao="
         }
       ]
     },
     {
-      "Route": "tuor1.iijgekg7q5.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\tuor1.html",
+      "Route": "TourPages/tuor2.9rh9lxtlqx.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\TourPages\\tuor2.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -26689,7 +26850,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11559"
+          "Value": "11034"
         },
         {
           "Name": "Content-Type",
@@ -26697,11 +26858,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"yiTaPj974EMTosJlXFtVvd1knFUuIogpzO3zD6aFCuw=\""
+          "Value": "\"29Th/GjQz06MmoQXf+AUUm0xMTjYi+Dfw16AljCceao=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 14:30:48 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26711,21 +26872,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "iijgekg7q5"
+          "Value": "9rh9lxtlqx"
         },
         {
           "Name": "label",
-          "Value": "tuor1.html"
+          "Value": "TourPages/tuor2.html"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-yiTaPj974EMTosJlXFtVvd1knFUuIogpzO3zD6aFCuw="
+          "Value": "sha256-29Th/GjQz06MmoQXf+AUUm0xMTjYi+Dfw16AljCceao="
         }
       ]
     },
     {
-      "Route": "tuor1.iijgekg7q5.html.gz",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\nhwku8iv7r-iijgekg7q5.gz",
+      "Route": "TourPages/tuor2.9rh9lxtlqx.html.gz",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\75p7hpoqdq-9rh9lxtlqx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -26734,7 +26895,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3212"
+          "Value": "3304"
         },
         {
           "Name": "Content-Type",
@@ -26742,11 +26903,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CPj1Qr84wNo/lX/gIxaPb+i243Gqwm1OMNVXcWgBXOg=\""
+          "Value": "\"+Sxt5y9e7Amb+thnDBrM4wQbfUGiSABF5TpXpyRxyfE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 14:30:48 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26764,26 +26925,26 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "iijgekg7q5"
+          "Value": "9rh9lxtlqx"
         },
         {
           "Name": "label",
-          "Value": "tuor1.html.gz"
+          "Value": "TourPages/tuor2.html.gz"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CPj1Qr84wNo/lX/gIxaPb+i243Gqwm1OMNVXcWgBXOg="
+          "Value": "sha256-+Sxt5y9e7Amb+thnDBrM4wQbfUGiSABF5TpXpyRxyfE="
         }
       ]
     },
     {
-      "Route": "tuor2.bf5huusk67.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\zhi69yaibz-bf5huusk67.gz",
+      "Route": "TourPages/tuor2.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\75p7hpoqdq-9rh9lxtlqx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000298685783"
+          "Quality": "0.000302571861"
         }
       ],
       "ResponseHeaders": [
@@ -26793,19 +26954,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3347"
+          "Value": "3304"
         },
         {
           "Name": "ETag",
-          "Value": "\"2O3kbGf6b6nFMXaLnJvT0BTKT6Qkx20XoNMfqzjZZug=\""
+          "Value": "\"+Sxt5y9e7Amb+thnDBrM4wQbfUGiSABF5TpXpyRxyfE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 07:53:04 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -26821,27 +26982,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"twtRQ7rTL8oBM4U03yQSpUS0fpTNLdxwLjZ+Tz02cT4=\""
+          "Value": "W/\"29Th/GjQz06MmoQXf+AUUm0xMTjYi+Dfw16AljCceao=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "bf5huusk67"
-        },
-        {
-          "Name": "label",
-          "Value": "tuor2.html"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-twtRQ7rTL8oBM4U03yQSpUS0fpTNLdxwLjZ+Tz02cT4="
+          "Value": "sha256-29Th/GjQz06MmoQXf+AUUm0xMTjYi+Dfw16AljCceao="
         }
       ]
     },
     {
-      "Route": "tuor2.bf5huusk67.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\tuor2.html",
+      "Route": "TourPages/tuor2.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\TourPages\\tuor2.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -26850,7 +27003,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11791"
+          "Value": "11034"
         },
         {
           "Name": "Content-Type",
@@ -26858,35 +27011,27 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"twtRQ7rTL8oBM4U03yQSpUS0fpTNLdxwLjZ+Tz02cT4=\""
+          "Value": "\"29Th/GjQz06MmoQXf+AUUm0xMTjYi+Dfw16AljCceao=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 07:53:04 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "bf5huusk67"
-        },
-        {
-          "Name": "label",
-          "Value": "tuor2.html"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-twtRQ7rTL8oBM4U03yQSpUS0fpTNLdxwLjZ+Tz02cT4="
+          "Value": "sha256-29Th/GjQz06MmoQXf+AUUm0xMTjYi+Dfw16AljCceao="
         }
       ]
     },
     {
-      "Route": "tuor2.bf5huusk67.html.gz",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\zhi69yaibz-bf5huusk67.gz",
+      "Route": "TourPages/tuor2.html.gz",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\75p7hpoqdq-9rh9lxtlqx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -26895,7 +27040,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3347"
+          "Value": "3304"
         },
         {
           "Name": "Content-Type",
@@ -26903,15 +27048,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2O3kbGf6b6nFMXaLnJvT0BTKT6Qkx20XoNMfqzjZZug=\""
+          "Value": "\"+Sxt5y9e7Amb+thnDBrM4wQbfUGiSABF5TpXpyRxyfE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 07:53:04 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -26924,27 +27069,19 @@
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "bf5huusk67"
-        },
-        {
-          "Name": "label",
-          "Value": "tuor2.html.gz"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-2O3kbGf6b6nFMXaLnJvT0BTKT6Qkx20XoNMfqzjZZug="
+          "Value": "sha256-+Sxt5y9e7Amb+thnDBrM4wQbfUGiSABF5TpXpyRxyfE="
         }
       ]
     },
     {
-      "Route": "tuor2.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\zhi69yaibz-bf5huusk67.gz",
+      "Route": "TourPages/tuor3.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\0ue1e4zgd2-mrjs5vwt1i.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000298685783"
+          "Quality": "0.000312793244"
         }
       ],
       "ResponseHeaders": [
@@ -26954,15 +27091,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3347"
+          "Value": "3196"
         },
         {
           "Name": "ETag",
-          "Value": "\"2O3kbGf6b6nFMXaLnJvT0BTKT6Qkx20XoNMfqzjZZug=\""
+          "Value": "\"grxJFzysofu1VZsOInFTJ0LIC4j5et4fLzpcrv5+BvE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 07:53:04 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26982,19 +27119,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"twtRQ7rTL8oBM4U03yQSpUS0fpTNLdxwLjZ+Tz02cT4=\""
+          "Value": "W/\"7mtJ0f+L4GXoz5ODyTn9sRbaLdKM/xzg7x1s7YQKHUk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-twtRQ7rTL8oBM4U03yQSpUS0fpTNLdxwLjZ+Tz02cT4="
+          "Value": "sha256-7mtJ0f+L4GXoz5ODyTn9sRbaLdKM/xzg7x1s7YQKHUk="
         }
       ]
     },
     {
-      "Route": "tuor2.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\tuor2.html",
+      "Route": "TourPages/tuor3.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\TourPages\\tuor3.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -27003,7 +27140,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11791"
+          "Value": "10685"
         },
         {
           "Name": "Content-Type",
@@ -27011,11 +27148,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"twtRQ7rTL8oBM4U03yQSpUS0fpTNLdxwLjZ+Tz02cT4=\""
+          "Value": "\"7mtJ0f+L4GXoz5ODyTn9sRbaLdKM/xzg7x1s7YQKHUk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 07:53:04 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27025,13 +27162,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-twtRQ7rTL8oBM4U03yQSpUS0fpTNLdxwLjZ+Tz02cT4="
+          "Value": "sha256-7mtJ0f+L4GXoz5ODyTn9sRbaLdKM/xzg7x1s7YQKHUk="
         }
       ]
     },
     {
-      "Route": "tuor2.html.gz",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\zhi69yaibz-bf5huusk67.gz",
+      "Route": "TourPages/tuor3.html.gz",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\0ue1e4zgd2-mrjs5vwt1i.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -27040,7 +27177,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3347"
+          "Value": "3196"
         },
         {
           "Name": "Content-Type",
@@ -27048,11 +27185,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2O3kbGf6b6nFMXaLnJvT0BTKT6Qkx20XoNMfqzjZZug=\""
+          "Value": "\"grxJFzysofu1VZsOInFTJ0LIC4j5et4fLzpcrv5+BvE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 07:53:04 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27070,18 +27207,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-2O3kbGf6b6nFMXaLnJvT0BTKT6Qkx20XoNMfqzjZZug="
+          "Value": "sha256-grxJFzysofu1VZsOInFTJ0LIC4j5et4fLzpcrv5+BvE="
         }
       ]
     },
     {
-      "Route": "tuor3.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\0gouc3mt5c-uof70bmvew.gz",
+      "Route": "TourPages/tuor3.mrjs5vwt1i.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\0ue1e4zgd2-mrjs5vwt1i.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000308261406"
+          "Quality": "0.000312793244"
         }
       ],
       "ResponseHeaders": [
@@ -27091,19 +27228,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3243"
+          "Value": "3196"
         },
         {
           "Name": "ETag",
-          "Value": "\"VvIZzzHApo91iN/nvaAFkZoNWDq1zU9nia/pMJJ6ZC0=\""
+          "Value": "\"grxJFzysofu1VZsOInFTJ0LIC4j5et4fLzpcrv5+BvE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 14:30:19 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -27119,19 +27256,27 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"0ojC1HbrorSKaVKdaZPzqD+z2B6OTrnfyFCDwGzUx1Y=\""
+          "Value": "W/\"7mtJ0f+L4GXoz5ODyTn9sRbaLdKM/xzg7x1s7YQKHUk=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "mrjs5vwt1i"
+        },
+        {
+          "Name": "label",
+          "Value": "TourPages/tuor3.html"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-0ojC1HbrorSKaVKdaZPzqD+z2B6OTrnfyFCDwGzUx1Y="
+          "Value": "sha256-7mtJ0f+L4GXoz5ODyTn9sRbaLdKM/xzg7x1s7YQKHUk="
         }
       ]
     },
     {
-      "Route": "tuor3.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\tuor3.html",
+      "Route": "TourPages/tuor3.mrjs5vwt1i.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\TourPages\\tuor3.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -27140,7 +27285,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11442"
+          "Value": "10685"
         },
         {
           "Name": "Content-Type",
@@ -27148,27 +27293,35 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0ojC1HbrorSKaVKdaZPzqD+z2B6OTrnfyFCDwGzUx1Y=\""
+          "Value": "\"7mtJ0f+L4GXoz5ODyTn9sRbaLdKM/xzg7x1s7YQKHUk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 14:30:19 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "mrjs5vwt1i"
+        },
+        {
+          "Name": "label",
+          "Value": "TourPages/tuor3.html"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-0ojC1HbrorSKaVKdaZPzqD+z2B6OTrnfyFCDwGzUx1Y="
+          "Value": "sha256-7mtJ0f+L4GXoz5ODyTn9sRbaLdKM/xzg7x1s7YQKHUk="
         }
       ]
     },
     {
-      "Route": "tuor3.html.gz",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\0gouc3mt5c-uof70bmvew.gz",
+      "Route": "TourPages/tuor3.mrjs5vwt1i.html.gz",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\0ue1e4zgd2-mrjs5vwt1i.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -27177,7 +27330,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3243"
+          "Value": "3196"
         },
         {
           "Name": "Content-Type",
@@ -27185,15 +27338,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VvIZzzHApo91iN/nvaAFkZoNWDq1zU9nia/pMJJ6ZC0=\""
+          "Value": "\"grxJFzysofu1VZsOInFTJ0LIC4j5et4fLzpcrv5+BvE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 14:30:19 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -27206,19 +27359,27 @@
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "mrjs5vwt1i"
+        },
+        {
+          "Name": "label",
+          "Value": "TourPages/tuor3.html.gz"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-VvIZzzHApo91iN/nvaAFkZoNWDq1zU9nia/pMJJ6ZC0="
+          "Value": "sha256-grxJFzysofu1VZsOInFTJ0LIC4j5et4fLzpcrv5+BvE="
         }
       ]
     },
     {
-      "Route": "tuor3.uof70bmvew.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\0gouc3mt5c-uof70bmvew.gz",
+      "Route": "TourPages/tuor4.cytqzphzdi.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\nderq9od10-cytqzphzdi.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000308261406"
+          "Quality": "0.000331785003"
         }
       ],
       "ResponseHeaders": [
@@ -27228,15 +27389,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3243"
+          "Value": "3013"
         },
         {
           "Name": "ETag",
-          "Value": "\"VvIZzzHApo91iN/nvaAFkZoNWDq1zU9nia/pMJJ6ZC0=\""
+          "Value": "\"Jcm3LevjbUSUEjJRGGnF51BjvXj9VGxmNay8+hJ7EUc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 14:30:19 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27256,27 +27417,27 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"0ojC1HbrorSKaVKdaZPzqD+z2B6OTrnfyFCDwGzUx1Y=\""
+          "Value": "W/\"JPE1NrSlPThs3o2NWfTOVZ0cn4c6p3X6wjL51aZrqQ8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "uof70bmvew"
+          "Value": "cytqzphzdi"
         },
         {
           "Name": "label",
-          "Value": "tuor3.html"
+          "Value": "TourPages/tuor4.html"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0ojC1HbrorSKaVKdaZPzqD+z2B6OTrnfyFCDwGzUx1Y="
+          "Value": "sha256-JPE1NrSlPThs3o2NWfTOVZ0cn4c6p3X6wjL51aZrqQ8="
         }
       ]
     },
     {
-      "Route": "tuor3.uof70bmvew.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\tuor3.html",
+      "Route": "TourPages/tuor4.cytqzphzdi.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\TourPages\\tuor4.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -27285,7 +27446,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11442"
+          "Value": "10411"
         },
         {
           "Name": "Content-Type",
@@ -27293,11 +27454,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0ojC1HbrorSKaVKdaZPzqD+z2B6OTrnfyFCDwGzUx1Y=\""
+          "Value": "\"JPE1NrSlPThs3o2NWfTOVZ0cn4c6p3X6wjL51aZrqQ8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 14:30:19 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27307,21 +27468,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "uof70bmvew"
+          "Value": "cytqzphzdi"
         },
         {
           "Name": "label",
-          "Value": "tuor3.html"
+          "Value": "TourPages/tuor4.html"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0ojC1HbrorSKaVKdaZPzqD+z2B6OTrnfyFCDwGzUx1Y="
+          "Value": "sha256-JPE1NrSlPThs3o2NWfTOVZ0cn4c6p3X6wjL51aZrqQ8="
         }
       ]
     },
     {
-      "Route": "tuor3.uof70bmvew.html.gz",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\0gouc3mt5c-uof70bmvew.gz",
+      "Route": "TourPages/tuor4.cytqzphzdi.html.gz",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\nderq9od10-cytqzphzdi.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -27330,7 +27491,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3243"
+          "Value": "3013"
         },
         {
           "Name": "Content-Type",
@@ -27338,11 +27499,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VvIZzzHApo91iN/nvaAFkZoNWDq1zU9nia/pMJJ6ZC0=\""
+          "Value": "\"Jcm3LevjbUSUEjJRGGnF51BjvXj9VGxmNay8+hJ7EUc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 14:30:19 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27360,26 +27521,26 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "uof70bmvew"
+          "Value": "cytqzphzdi"
         },
         {
           "Name": "label",
-          "Value": "tuor3.html.gz"
+          "Value": "TourPages/tuor4.html.gz"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-VvIZzzHApo91iN/nvaAFkZoNWDq1zU9nia/pMJJ6ZC0="
+          "Value": "sha256-Jcm3LevjbUSUEjJRGGnF51BjvXj9VGxmNay8+hJ7EUc="
         }
       ]
     },
     {
-      "Route": "tuor4.b8qkfgmsjx.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\ofwwu9bq6h-b8qkfgmsjx.gz",
+      "Route": "TourPages/tuor4.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\nderq9od10-cytqzphzdi.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000326904217"
+          "Quality": "0.000331785003"
         }
       ],
       "ResponseHeaders": [
@@ -27389,19 +27550,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3058"
+          "Value": "3013"
         },
         {
           "Name": "ETag",
-          "Value": "\"ZeLldBpd8Zvm5OpZkb/+STJQnOokfWltHfeH4Cs7q54=\""
+          "Value": "\"Jcm3LevjbUSUEjJRGGnF51BjvXj9VGxmNay8+hJ7EUc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 14:40:28 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -27417,27 +27578,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"y9C6tvCCoItsLBmUCknYgYYNINKC4UgSwIElQBczsGY=\""
+          "Value": "W/\"JPE1NrSlPThs3o2NWfTOVZ0cn4c6p3X6wjL51aZrqQ8=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "b8qkfgmsjx"
-        },
-        {
-          "Name": "label",
-          "Value": "tuor4.html"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-y9C6tvCCoItsLBmUCknYgYYNINKC4UgSwIElQBczsGY="
+          "Value": "sha256-JPE1NrSlPThs3o2NWfTOVZ0cn4c6p3X6wjL51aZrqQ8="
         }
       ]
     },
     {
-      "Route": "tuor4.b8qkfgmsjx.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\tuor4.html",
+      "Route": "TourPages/tuor4.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\TourPages\\tuor4.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -27446,7 +27599,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11168"
+          "Value": "10411"
         },
         {
           "Name": "Content-Type",
@@ -27454,35 +27607,27 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"y9C6tvCCoItsLBmUCknYgYYNINKC4UgSwIElQBczsGY=\""
+          "Value": "\"JPE1NrSlPThs3o2NWfTOVZ0cn4c6p3X6wjL51aZrqQ8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 14:40:28 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "b8qkfgmsjx"
-        },
-        {
-          "Name": "label",
-          "Value": "tuor4.html"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-y9C6tvCCoItsLBmUCknYgYYNINKC4UgSwIElQBczsGY="
+          "Value": "sha256-JPE1NrSlPThs3o2NWfTOVZ0cn4c6p3X6wjL51aZrqQ8="
         }
       ]
     },
     {
-      "Route": "tuor4.b8qkfgmsjx.html.gz",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\ofwwu9bq6h-b8qkfgmsjx.gz",
+      "Route": "TourPages/tuor4.html.gz",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\nderq9od10-cytqzphzdi.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -27491,7 +27636,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3058"
+          "Value": "3013"
         },
         {
           "Name": "Content-Type",
@@ -27499,15 +27644,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZeLldBpd8Zvm5OpZkb/+STJQnOokfWltHfeH4Cs7q54=\""
+          "Value": "\"Jcm3LevjbUSUEjJRGGnF51BjvXj9VGxmNay8+hJ7EUc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 14:40:28 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -27520,27 +27665,19 @@
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "b8qkfgmsjx"
-        },
-        {
-          "Name": "label",
-          "Value": "tuor4.html.gz"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-ZeLldBpd8Zvm5OpZkb/+STJQnOokfWltHfeH4Cs7q54="
+          "Value": "sha256-Jcm3LevjbUSUEjJRGGnF51BjvXj9VGxmNay8+hJ7EUc="
         }
       ]
     },
     {
-      "Route": "tuor4.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\ofwwu9bq6h-b8qkfgmsjx.gz",
+      "Route": "TourPages/tuor5.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\eb2w374vwu-z0q18zfwsc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000326904217"
+          "Quality": "0.000295159386"
         }
       ],
       "ResponseHeaders": [
@@ -27550,15 +27687,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3058"
+          "Value": "3387"
         },
         {
           "Name": "ETag",
-          "Value": "\"ZeLldBpd8Zvm5OpZkb/+STJQnOokfWltHfeH4Cs7q54=\""
+          "Value": "\"GtgLs/N1OZrArx8fNs9pLytCK/byt5RluiXgRER4f1o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 14:40:28 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27578,19 +27715,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"y9C6tvCCoItsLBmUCknYgYYNINKC4UgSwIElQBczsGY=\""
+          "Value": "W/\"/WGHdS73/m7Sv9VNj+drWl3yAyK0EqbGKAtkXroMJYo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-y9C6tvCCoItsLBmUCknYgYYNINKC4UgSwIElQBczsGY="
+          "Value": "sha256-/WGHdS73/m7Sv9VNj+drWl3yAyK0EqbGKAtkXroMJYo="
         }
       ]
     },
     {
-      "Route": "tuor4.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\tuor4.html",
+      "Route": "TourPages/tuor5.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\TourPages\\tuor5.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -27599,7 +27736,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11168"
+          "Value": "11120"
         },
         {
           "Name": "Content-Type",
@@ -27607,11 +27744,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"y9C6tvCCoItsLBmUCknYgYYNINKC4UgSwIElQBczsGY=\""
+          "Value": "\"/WGHdS73/m7Sv9VNj+drWl3yAyK0EqbGKAtkXroMJYo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 14:40:28 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27621,13 +27758,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-y9C6tvCCoItsLBmUCknYgYYNINKC4UgSwIElQBczsGY="
+          "Value": "sha256-/WGHdS73/m7Sv9VNj+drWl3yAyK0EqbGKAtkXroMJYo="
         }
       ]
     },
     {
-      "Route": "tuor4.html.gz",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\ofwwu9bq6h-b8qkfgmsjx.gz",
+      "Route": "TourPages/tuor5.html.gz",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\eb2w374vwu-z0q18zfwsc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -27636,7 +27773,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3058"
+          "Value": "3387"
         },
         {
           "Name": "Content-Type",
@@ -27644,11 +27781,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZeLldBpd8Zvm5OpZkb/+STJQnOokfWltHfeH4Cs7q54=\""
+          "Value": "\"GtgLs/N1OZrArx8fNs9pLytCK/byt5RluiXgRER4f1o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 14:40:28 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27666,18 +27803,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZeLldBpd8Zvm5OpZkb/+STJQnOokfWltHfeH4Cs7q54="
+          "Value": "sha256-GtgLs/N1OZrArx8fNs9pLytCK/byt5RluiXgRER4f1o="
         }
       ]
     },
     {
-      "Route": "tuor5.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\3n7l3ctx42-s2gwgfdd1s.gz",
+      "Route": "TourPages/tuor5.z0q18zfwsc.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\eb2w374vwu-z0q18zfwsc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000291545190"
+          "Quality": "0.000295159386"
         }
       ],
       "ResponseHeaders": [
@@ -27687,19 +27824,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3429"
+          "Value": "3387"
         },
         {
           "Name": "ETag",
-          "Value": "\"nFuxj7GcP3m0TJQelbSLxux0/opgPggPFVS2eQzVPvs=\""
+          "Value": "\"GtgLs/N1OZrArx8fNs9pLytCK/byt5RluiXgRER4f1o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 14:40:15 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -27715,19 +27852,27 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ZNU+tYSmIzEv6EExNl0bIRqmmY6rSfHRp0n/+ICfbuQ=\""
+          "Value": "W/\"/WGHdS73/m7Sv9VNj+drWl3yAyK0EqbGKAtkXroMJYo=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "z0q18zfwsc"
+        },
+        {
+          "Name": "label",
+          "Value": "TourPages/tuor5.html"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-ZNU+tYSmIzEv6EExNl0bIRqmmY6rSfHRp0n/+ICfbuQ="
+          "Value": "sha256-/WGHdS73/m7Sv9VNj+drWl3yAyK0EqbGKAtkXroMJYo="
         }
       ]
     },
     {
-      "Route": "tuor5.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\tuor5.html",
+      "Route": "TourPages/tuor5.z0q18zfwsc.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\TourPages\\tuor5.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -27736,7 +27881,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11878"
+          "Value": "11120"
         },
         {
           "Name": "Content-Type",
@@ -27744,27 +27889,35 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZNU+tYSmIzEv6EExNl0bIRqmmY6rSfHRp0n/+ICfbuQ=\""
+          "Value": "\"/WGHdS73/m7Sv9VNj+drWl3yAyK0EqbGKAtkXroMJYo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 14:40:15 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "z0q18zfwsc"
+        },
+        {
+          "Name": "label",
+          "Value": "TourPages/tuor5.html"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-ZNU+tYSmIzEv6EExNl0bIRqmmY6rSfHRp0n/+ICfbuQ="
+          "Value": "sha256-/WGHdS73/m7Sv9VNj+drWl3yAyK0EqbGKAtkXroMJYo="
         }
       ]
     },
     {
-      "Route": "tuor5.html.gz",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\3n7l3ctx42-s2gwgfdd1s.gz",
+      "Route": "TourPages/tuor5.z0q18zfwsc.html.gz",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\eb2w374vwu-z0q18zfwsc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -27773,7 +27926,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3429"
+          "Value": "3387"
         },
         {
           "Name": "Content-Type",
@@ -27781,15 +27934,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nFuxj7GcP3m0TJQelbSLxux0/opgPggPFVS2eQzVPvs=\""
+          "Value": "\"GtgLs/N1OZrArx8fNs9pLytCK/byt5RluiXgRER4f1o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 14:40:15 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -27802,19 +27955,27 @@
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "z0q18zfwsc"
+        },
+        {
+          "Name": "label",
+          "Value": "TourPages/tuor5.html.gz"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-nFuxj7GcP3m0TJQelbSLxux0/opgPggPFVS2eQzVPvs="
+          "Value": "sha256-GtgLs/N1OZrArx8fNs9pLytCK/byt5RluiXgRER4f1o="
         }
       ]
     },
     {
-      "Route": "tuor5.s2gwgfdd1s.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\3n7l3ctx42-s2gwgfdd1s.gz",
+      "Route": "TourPages/tuor6.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\uk4l94mirv-oqp1qeg8tb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000291545190"
+          "Quality": "0.000297796307"
         }
       ],
       "ResponseHeaders": [
@@ -27824,19 +27985,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3429"
+          "Value": "3357"
         },
         {
           "Name": "ETag",
-          "Value": "\"nFuxj7GcP3m0TJQelbSLxux0/opgPggPFVS2eQzVPvs=\""
+          "Value": "\"rCkjyjotbG82siodX9OXV5/XYXI9cUnqKh5vk8axujI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 14:40:15 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -27852,27 +28013,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ZNU+tYSmIzEv6EExNl0bIRqmmY6rSfHRp0n/+ICfbuQ=\""
+          "Value": "W/\"cHVDaWfunV+fYkd2DZ4fya8ULkIa4NkK+bwi/jw2oWU=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "s2gwgfdd1s"
-        },
-        {
-          "Name": "label",
-          "Value": "tuor5.html"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-ZNU+tYSmIzEv6EExNl0bIRqmmY6rSfHRp0n/+ICfbuQ="
+          "Value": "sha256-cHVDaWfunV+fYkd2DZ4fya8ULkIa4NkK+bwi/jw2oWU="
         }
       ]
     },
     {
-      "Route": "tuor5.s2gwgfdd1s.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\tuor5.html",
+      "Route": "TourPages/tuor6.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\TourPages\\tuor6.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -27881,7 +28034,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11878"
+          "Value": "10973"
         },
         {
           "Name": "Content-Type",
@@ -27889,35 +28042,27 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZNU+tYSmIzEv6EExNl0bIRqmmY6rSfHRp0n/+ICfbuQ=\""
+          "Value": "\"cHVDaWfunV+fYkd2DZ4fya8ULkIa4NkK+bwi/jw2oWU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 14:40:15 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "s2gwgfdd1s"
-        },
-        {
-          "Name": "label",
-          "Value": "tuor5.html"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-ZNU+tYSmIzEv6EExNl0bIRqmmY6rSfHRp0n/+ICfbuQ="
+          "Value": "sha256-cHVDaWfunV+fYkd2DZ4fya8ULkIa4NkK+bwi/jw2oWU="
         }
       ]
     },
     {
-      "Route": "tuor5.s2gwgfdd1s.html.gz",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\3n7l3ctx42-s2gwgfdd1s.gz",
+      "Route": "TourPages/tuor6.html.gz",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\uk4l94mirv-oqp1qeg8tb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -27926,7 +28071,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3429"
+          "Value": "3357"
         },
         {
           "Name": "Content-Type",
@@ -27934,15 +28079,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nFuxj7GcP3m0TJQelbSLxux0/opgPggPFVS2eQzVPvs=\""
+          "Value": "\"rCkjyjotbG82siodX9OXV5/XYXI9cUnqKh5vk8axujI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 14:40:15 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -27955,27 +28100,19 @@
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "s2gwgfdd1s"
-        },
-        {
-          "Name": "label",
-          "Value": "tuor5.html.gz"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-nFuxj7GcP3m0TJQelbSLxux0/opgPggPFVS2eQzVPvs="
+          "Value": "sha256-rCkjyjotbG82siodX9OXV5/XYXI9cUnqKh5vk8axujI="
         }
       ]
     },
     {
-      "Route": "tuor6.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\fo326rqoay-xlaqd2pfl6.gz",
+      "Route": "TourPages/tuor6.oqp1qeg8tb.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\uk4l94mirv-oqp1qeg8tb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000297530497"
+          "Quality": "0.000297796307"
         }
       ],
       "ResponseHeaders": [
@@ -27985,152 +28122,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3360"
+          "Value": "3357"
         },
         {
           "Name": "ETag",
-          "Value": "\"fJPzyyZW8mIQu+eenIDE0izr0fKiwpac1xECz+Kl5Fg=\""
+          "Value": "\"rCkjyjotbG82siodX9OXV5/XYXI9cUnqKh5vk8axujI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 07:53:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"y4L/dvR/d/rllgfo6NfPvCKoigpI5vNseEogyzGj+e4=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-y4L/dvR/d/rllgfo6NfPvCKoigpI5vNseEogyzGj+e4="
-        }
-      ]
-    },
-    {
-      "Route": "tuor6.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\tuor6.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "11720"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"y4L/dvR/d/rllgfo6NfPvCKoigpI5vNseEogyzGj+e4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 07:53:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-y4L/dvR/d/rllgfo6NfPvCKoigpI5vNseEogyzGj+e4="
-        }
-      ]
-    },
-    {
-      "Route": "tuor6.html.gz",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\fo326rqoay-xlaqd2pfl6.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3360"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fJPzyyZW8mIQu+eenIDE0izr0fKiwpac1xECz+Kl5Fg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 07:53:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-fJPzyyZW8mIQu+eenIDE0izr0fKiwpac1xECz+Kl5Fg="
-        }
-      ]
-    },
-    {
-      "Route": "tuor6.xlaqd2pfl6.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\fo326rqoay-xlaqd2pfl6.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000297530497"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3360"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fJPzyyZW8mIQu+eenIDE0izr0fKiwpac1xECz+Kl5Fg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 07:53:27 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -28150,27 +28150,27 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"y4L/dvR/d/rllgfo6NfPvCKoigpI5vNseEogyzGj+e4=\""
+          "Value": "W/\"cHVDaWfunV+fYkd2DZ4fya8ULkIa4NkK+bwi/jw2oWU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xlaqd2pfl6"
+          "Value": "oqp1qeg8tb"
         },
         {
           "Name": "label",
-          "Value": "tuor6.html"
+          "Value": "TourPages/tuor6.html"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-y4L/dvR/d/rllgfo6NfPvCKoigpI5vNseEogyzGj+e4="
+          "Value": "sha256-cHVDaWfunV+fYkd2DZ4fya8ULkIa4NkK+bwi/jw2oWU="
         }
       ]
     },
     {
-      "Route": "tuor6.xlaqd2pfl6.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\tuor6.html",
+      "Route": "TourPages/tuor6.oqp1qeg8tb.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\TourPages\\tuor6.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -28179,7 +28179,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11720"
+          "Value": "10973"
         },
         {
           "Name": "Content-Type",
@@ -28187,11 +28187,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"y4L/dvR/d/rllgfo6NfPvCKoigpI5vNseEogyzGj+e4=\""
+          "Value": "\"cHVDaWfunV+fYkd2DZ4fya8ULkIa4NkK+bwi/jw2oWU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 07:53:27 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -28201,21 +28201,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xlaqd2pfl6"
+          "Value": "oqp1qeg8tb"
         },
         {
           "Name": "label",
-          "Value": "tuor6.html"
+          "Value": "TourPages/tuor6.html"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-y4L/dvR/d/rllgfo6NfPvCKoigpI5vNseEogyzGj+e4="
+          "Value": "sha256-cHVDaWfunV+fYkd2DZ4fya8ULkIa4NkK+bwi/jw2oWU="
         }
       ]
     },
     {
-      "Route": "tuor6.xlaqd2pfl6.html.gz",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\fo326rqoay-xlaqd2pfl6.gz",
+      "Route": "TourPages/tuor6.oqp1qeg8tb.html.gz",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\uk4l94mirv-oqp1qeg8tb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -28224,7 +28224,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3360"
+          "Value": "3357"
         },
         {
           "Name": "Content-Type",
@@ -28232,11 +28232,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fJPzyyZW8mIQu+eenIDE0izr0fKiwpac1xECz+Kl5Fg=\""
+          "Value": "\"rCkjyjotbG82siodX9OXV5/XYXI9cUnqKh5vk8axujI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 07:53:27 GMT"
+          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -28254,15 +28254,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xlaqd2pfl6"
+          "Value": "oqp1qeg8tb"
         },
         {
           "Name": "label",
-          "Value": "tuor6.html.gz"
+          "Value": "TourPages/tuor6.html.gz"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fJPzyyZW8mIQu+eenIDE0izr0fKiwpac1xECz+Kl5Fg="
+          "Value": "sha256-rCkjyjotbG82siodX9OXV5/XYXI9cUnqKh5vk8axujI="
         }
       ]
     }
