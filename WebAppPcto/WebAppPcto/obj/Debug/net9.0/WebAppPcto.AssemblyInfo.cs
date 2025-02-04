@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAppPcto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db411574f1849a33d7c707b893bc2386f4b60112")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb556e9cd0d016bb9c83757b893e18adda32adba")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAppPcto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAppPcto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
