@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\makao\\OneDrive\\Desktop\\Lav\\4G\\Github\\PCTO_Makaoui_Pessini\\WebAppPcto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|c:\\users\\makao\\onedrive\\desktop\\lav\\4g\\github\\pcto_makaoui_pessini\\webapppcto\\webapppcto\\migrations\\20250204082801_agmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|solutionrelative:webapppcto\\migrations\\20250204082801_agmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|c:\\users\\makao\\onedrive\\desktop\\lav\\4g\\github\\pcto_makaoui_pessini\\webapppcto\\webapppcto\\controllers\\prenotationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|solutionrelative:webapppcto\\controllers\\prenotationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|c:\\users\\makao\\onedrive\\desktop\\lav\\4g\\github\\pcto_makaoui_pessini\\webapppcto\\webapppcto\\controllers\\viaggiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|solutionrelative:webapppcto\\controllers\\viaggiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|c:\\users\\makao\\onedrive\\desktop\\lav\\4g\\github\\pcto_makaoui_pessini\\webapppcto\\webapppcto\\controllers\\prenotationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38D7A535-5976-4E8F-81B1-E973F5B565BE}|WebAppPcto\\WebAppPcto.csproj|solutionrelative:webapppcto\\controllers\\prenotationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +23,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20250204082801_AgMig.cs",
-              "DocumentMoniker": "C:\\Users\\makao\\OneDrive\\Desktop\\Lav\\4G\\Github\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\Migrations\\20250204082801_AgMig.cs",
-              "RelativeDocumentMoniker": "WebAppPcto\\Migrations\\20250204082801_AgMig.cs",
-              "ToolTip": "C:\\Users\\makao\\OneDrive\\Desktop\\Lav\\4G\\Github\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\Migrations\\20250204082801_AgMig.cs",
-              "RelativeToolTip": "WebAppPcto\\Migrations\\20250204082801_AgMig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T11:00:29.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "PrenotationController.cs",
               "DocumentMoniker": "C:\\Users\\makao\\OneDrive\\Desktop\\Lav\\4G\\Github\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\Controllers\\PrenotationController.cs",
               "RelativeDocumentMoniker": "WebAppPcto\\Controllers\\PrenotationController.cs",
               "ToolTip": "C:\\Users\\makao\\OneDrive\\Desktop\\Lav\\4G\\Github\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\Controllers\\PrenotationController.cs",
               "RelativeToolTip": "WebAppPcto\\Controllers\\PrenotationController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T10:59:24.887Z"
+              "WhenOpened": "2025-02-04T11:33:27.995Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -57,7 +41,7 @@
               "RelativeDocumentMoniker": "WebAppPcto\\Controllers\\ViaggioController.cs",
               "ToolTip": "C:\\Users\\makao\\OneDrive\\Desktop\\Lav\\4G\\Github\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\Controllers\\ViaggioController.cs",
               "RelativeToolTip": "WebAppPcto\\Controllers\\ViaggioController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T10:59:24.126Z",
               "EditorCaption": ""
