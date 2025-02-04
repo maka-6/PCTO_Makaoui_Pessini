@@ -2478,11 +2478,29 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ai5gt7jo0a</Fingerprint>
-      <Integrity>4mgZgAvQFW0qAaWD8RPEBWneZzKTuGNtgE4taFjCwTM=</Integrity>
+      <Fingerprint>28rvzhd9t3</Fingerprint>
+      <Integrity>kpI5hWXIZ2sduWVJ9FT2dtuOwYWEZzSEB+i6p0wbvG0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\chiSonoIo.html'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image-removebg-preview (24).png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WebAppPcto</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WebAppPcto</BasePath>
+      <RelativePath>image-removebg-preview (24).png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>yupy2a2o2i</Fingerprint>
+      <Integrity>aoGEAwQTBcQQ6V1c95zvdGIfp7T8IvvSXayiW6DUASY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image-removebg-preview (24).png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))">
       <SourceType>Package</SourceType>
@@ -2496,11 +2514,29 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>pddimsnsg4</Fingerprint>
-      <Integrity>PUo0vp8SXIc8W1MKEhjV1KCmvoOwjq7HZzRfBsKpoYo=</Integrity>
+      <Fingerprint>sdra97dgfp</Fingerprint>
+      <Integrity>IJ7zpOEW1KwJFrgnDnLujJmaWJmbCo0pOpgLzvutSB0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\prenotation.html'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WebAppPcto</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WebAppPcto</BasePath>
+      <RelativePath>prenotation.html</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>303ytxuxnh</Fingerprint>
+      <Integrity>s8SDXzgE+4xkASiWvT3DzR81Tx9Oo7LCzpBEGPj59uY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\prenotation.html'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Screenshot_2025-01-30_091845-removebg-preview.png'))">
       <SourceType>Package</SourceType>
@@ -2550,8 +2586,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>qbuac2xa7g</Fingerprint>
-      <Integrity>+uNo2xSYBJz6wF7MPxpoHpkvI0wfE+X7kWs6wYDZAJ4=</Integrity>
+      <Fingerprint>3xfrwko6fg</Fingerprint>
+      <Integrity>qYZ1cMIHKmv31dMuuibpE+V5z4hqLWy8BS6hS2Ox5Tc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Site.js'))</OriginalItemSpec>
@@ -2568,8 +2604,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>08duwydx4m</Fingerprint>
-      <Integrity>cJbZZym5OSIfe1/RruUu4bPoIzxyeY+TvpYVee5o1tU=</Integrity>
+      <Fingerprint>iijgekg7q5</Fingerprint>
+      <Integrity>yiTaPj974EMTosJlXFtVvd1knFUuIogpzO3zD6aFCuw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\tuor1.html'))</OriginalItemSpec>
@@ -2586,11 +2622,83 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>2011tupcfk</Fingerprint>
-      <Integrity>rj+mJixb1kiUo9OISjEKoDc2EjkEdKlUaWm1/0z80sY=</Integrity>
+      <Fingerprint>bf5huusk67</Fingerprint>
+      <Integrity>twtRQ7rTL8oBM4U03yQSpUS0fpTNLdxwLjZ+Tz02cT4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\tuor2.html'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\tuor3.html'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WebAppPcto</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WebAppPcto</BasePath>
+      <RelativePath>tuor3.html</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>uof70bmvew</Fingerprint>
+      <Integrity>0ojC1HbrorSKaVKdaZPzqD+z2B6OTrnfyFCDwGzUx1Y=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\tuor3.html'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\tuor4.html'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WebAppPcto</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WebAppPcto</BasePath>
+      <RelativePath>tuor4.html</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>b8qkfgmsjx</Fingerprint>
+      <Integrity>y9C6tvCCoItsLBmUCknYgYYNINKC4UgSwIElQBczsGY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\tuor4.html'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\tuor5.html'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WebAppPcto</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WebAppPcto</BasePath>
+      <RelativePath>tuor5.html</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>s2gwgfdd1s</Fingerprint>
+      <Integrity>ZNU+tYSmIzEv6EExNl0bIRqmmY6rSfHRp0n/+ICfbuQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\tuor5.html'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\tuor6.html'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WebAppPcto</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WebAppPcto</BasePath>
+      <RelativePath>tuor6.html</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>xlaqd2pfl6</Fingerprint>
+      <Integrity>y4L/dvR/d/rllgfo6NfPvCKoigpI5vNseEogyzGj+e4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\tuor6.html'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

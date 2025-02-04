@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pietro\\source\\repos\\WebAppPcto\\WebAppPcto\\WebAppPcto.csproj": {}
+    "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\WebAppPcto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pietro\\source\\repos\\WebAppPcto\\WebAppPcto\\WebAppPcto.csproj": {
+    "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\WebAppPcto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pietro\\source\\repos\\WebAppPcto\\WebAppPcto\\WebAppPcto.csproj",
+        "projectUniqueName": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\WebAppPcto.csproj",
         "projectName": "WebAppPcto",
-        "projectPath": "C:\\Users\\Pietro\\source\\repos\\WebAppPcto\\WebAppPcto\\WebAppPcto.csproj",
+        "projectPath": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\WebAppPcto.csproj",
         "packagesPath": "C:\\Users\\Pietro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pietro\\source\\repos\\WebAppPcto\\WebAppPcto\\obj\\",
+        "outputPath": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

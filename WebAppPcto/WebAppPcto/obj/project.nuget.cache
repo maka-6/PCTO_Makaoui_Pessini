@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LrwyhPPyov0=",
+  "dgSpecHash": "gsoQ0uBgvX4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pietro\\source\\repos\\WebAppPcto\\WebAppPcto\\WebAppPcto.csproj",
+  "projectFilePath": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\WebAppPcto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pietro\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Pietro\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
