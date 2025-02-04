@@ -2532,8 +2532,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>5080802gyl</Fingerprint>
-      <Integrity>e6+68a1zCkCIWu53at0dtUwLCrn56CQKE4RRdikxcpM=</Integrity>
+      <Fingerprint>lgu3dhhqkx</Fingerprint>
+      <Integrity>9V0v+qu7unxrciyGTyvH0zv+1BSah8q+P+w98/P3fYI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Index\chiSonoIo.html'))</OriginalItemSpec>

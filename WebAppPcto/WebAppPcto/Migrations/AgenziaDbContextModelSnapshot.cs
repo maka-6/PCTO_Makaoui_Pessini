@@ -26,9 +26,6 @@ namespace WebAppPcto.Migrations
                         .IsRequired()
                         .HasColumnType("TEXT");
 
-                    b.Property<int>("IndViaggio")
-                        .HasColumnType("INTEGER");
-
                     b.Property<string>("NameUser")
                         .IsRequired()
                         .HasColumnType("TEXT");

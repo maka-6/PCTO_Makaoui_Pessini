@@ -5,7 +5,7 @@
 namespace WebAppPcto.Migrations
 {
     /// <inheritdoc />
-    public partial class AggVia : Migration
+    public partial class AgMig : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -17,7 +17,6 @@ namespace WebAppPcto.Migrations
                     Id = table.Column<int>(type: "INTEGER", nullable: false)
                         .Annotation("Sqlite:Autoincrement", true),
                     NameUser = table.Column<string>(type: "TEXT", nullable: false),
-                    IndViaggio = table.Column<int>(type: "INTEGER", nullable: false),
                     Email = table.Column<string>(type: "TEXT", nullable: false),
                     Price = table.Column<decimal>(type: "TEXT", nullable: false)
                 },

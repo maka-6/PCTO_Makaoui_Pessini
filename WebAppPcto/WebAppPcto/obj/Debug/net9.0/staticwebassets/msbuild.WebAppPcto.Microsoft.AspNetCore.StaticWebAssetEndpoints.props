@@ -1680,17 +1680,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"x6kt8a569f"},{"Name":"integrity","Value":"sha256-eUtyy5x9iXpOmHRF4gkE3pBpOArZOYTPF5n6\u002BMiHA6A="},{"Name":"label","Value":"_content/WebAppPcto/Img/Screenshot_2025-01-30_102319-removebg-preview.png"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"23410"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022eUtyy5x9iXpOmHRF4gkE3pBpOArZOYTPF5n6\u002BMiHA6A=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Feb 2025 10:07:35 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/WebAppPcto/Index/chiSonoIo.5080802gyl.html">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Index\chiSonoIo.html'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5080802gyl"},{"Name":"integrity","Value":"sha256-e6\u002B68a1zCkCIWu53at0dtUwLCrn56CQKE4RRdikxcpM="},{"Name":"label","Value":"_content/WebAppPcto/Index/chiSonoIo.html"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7838"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022e6\u002B68a1zCkCIWu53at0dtUwLCrn56CQKE4RRdikxcpM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Feb 2025 10:07:35 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/WebAppPcto/Index/chiSonoIo.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Index\chiSonoIo.html'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-e6\u002B68a1zCkCIWu53at0dtUwLCrn56CQKE4RRdikxcpM="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7838"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022e6\u002B68a1zCkCIWu53at0dtUwLCrn56CQKE4RRdikxcpM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Feb 2025 10:07:35 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9V0v\u002Bqu7unxrciyGTyvH0zv\u002B1BSah8q\u002BP\u002Bw98/P3fYI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8213"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00229V0v\u002Bqu7unxrciyGTyvH0zv\u002B1BSah8q\u002BP\u002Bw98/P3fYI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Feb 2025 11:52:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/WebAppPcto/Index/chiSonoIo.lgu3dhhqkx.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Index\chiSonoIo.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lgu3dhhqkx"},{"Name":"integrity","Value":"sha256-9V0v\u002Bqu7unxrciyGTyvH0zv\u002B1BSah8q\u002BP\u002Bw98/P3fYI="},{"Name":"label","Value":"_content/WebAppPcto/Index/chiSonoIo.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8213"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00229V0v\u002Bqu7unxrciyGTyvH0zv\u002B1BSah8q\u002BP\u002Bw98/P3fYI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Feb 2025 11:52:19 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/WebAppPcto/Index/index.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Index\index.html'))</AssetFile>

@@ -24,5 +24,47 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAppPcto.Controllers.ViaggioController",
+    "Method": "Get",
+    "RelativePath": "api/Viaggio",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAppPcto.Controllers.ViaggioController",
+    "Method": "Post",
+    "RelativePath": "api/Viaggio",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "v",
+        "Type": "WebAppPcto.Data.viaggio",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAppPcto.Controllers.ViaggioController",
+    "Method": "Delete",
+    "RelativePath": "api/Viaggio/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]
