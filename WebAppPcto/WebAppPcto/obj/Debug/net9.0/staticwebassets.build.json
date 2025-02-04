@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "t7ocXfZrrENdqfNyn2uJGjhMo5VqCHOdAnI+aKaoHb4=",
+  "Hash": "zGNyAGyBix5BrxSVMbvVuecLA5J+yUyVvjfIDSika6c=",
   "Source": "WebAppPcto",
   "BasePath": "_content/WebAppPcto",
   "Mode": "Default",
@@ -563,12 +563,12 @@
       "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\TourPages\\tuor5.html"
     },
     {
-      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\ec79a0qdxt-vwy9uf8r6q.gz",
+      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\ec79a0qdxt-ozuks9ljc8.gz",
       "SourceId": "WebAppPcto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebAppPcto",
-      "RelativePath": "Script/GetViaggi#[.{fingerprint=vwy9uf8r6q}]?.js.gz",
+      "RelativePath": "Script/GetViaggi#[.{fingerprint=ozuks9ljc8}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -577,8 +577,8 @@
       "RelatedAsset": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Script\\GetViaggi.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "7bzjkyambs",
-      "Integrity": "g7Xj0B1rc11NTB5kknmh8/LOf8U3zQIsNfEu03TTpLk=",
+      "Fingerprint": "v87thgafka",
+      "Integrity": "7xqbKzqm0j4svl3XqkNfR+p/3Gz0mGnkY5iFHBUMU0s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Script\\GetViaggi.js"
@@ -794,12 +794,12 @@
       "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\jjoseq9rj8-ll7hrc9b81.gz",
+      "Identity": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\jjoseq9rj8-bkub1lmpp5.gz",
       "SourceId": "WebAppPcto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebAppPcto",
-      "RelativePath": "Index/prenotation#[.{fingerprint=ll7hrc9b81}]?.html.gz",
+      "RelativePath": "Index/prenotation#[.{fingerprint=bkub1lmpp5}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -808,8 +808,8 @@
       "RelatedAsset": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Index\\prenotation.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "tzp0qpdh9a",
-      "Integrity": "mfFbsAAWi086juifoHUXQz8Ul4sTsqNE/ACWYH/0hUQ=",
+      "Fingerprint": "m7snfr7okr",
+      "Integrity": "khlwayKWuWkfwDR3dbyS7hos8OrO6CsXVMUWhFaZjC4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Index\\prenotation.html"
@@ -4147,8 +4147,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ll7hrc9b81",
-      "Integrity": "R8QfHZLYjjiDJJI5qxEV9atGjnLElbf7wGiRIKx4tJg=",
+      "Fingerprint": "bkub1lmpp5",
+      "Integrity": "eyRuTmFgOiNuXdYZBJzzOP9DG7P8EIsQyY/pdmljOVY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Index\\prenotation.html"
@@ -4168,8 +4168,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "vwy9uf8r6q",
-      "Integrity": "/9IOf60cK9F8BgeKewYz6WDiRinBdlrxHclJJ7mcDIk=",
+      "Fingerprint": "ozuks9ljc8",
+      "Integrity": "5EkT5+CnUAMK0bYiiAqITx1Qv4SlKJGvqdb53FH8LA0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Script\\GetViaggi.js"
@@ -25311,7 +25311,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 11:52:19 GMT"
+          "Value": "Tue, 04 Feb 2025 14:38:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25364,7 +25364,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 11:52:19 GMT"
+          "Value": "Tue, 04 Feb 2025 14:38:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25401,7 +25401,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 11:52:19 GMT"
+          "Value": "Tue, 04 Feb 2025 14:38:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25448,7 +25448,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 11:52:19 GMT"
+          "Value": "Tue, 04 Feb 2025 14:38:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25509,7 +25509,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 11:52:19 GMT"
+          "Value": "Tue, 04 Feb 2025 14:38:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25554,7 +25554,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 11:52:19 GMT"
+          "Value": "Tue, 04 Feb 2025 14:38:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25883,13 +25883,13 @@
       ]
     },
     {
-      "Route": "Index/prenotation.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\jjoseq9rj8-ll7hrc9b81.gz",
+      "Route": "Index/prenotation.bkub1lmpp5.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\jjoseq9rj8-bkub1lmpp5.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000369685767"
+          "Quality": "0.000392156863"
         }
       ],
       "ResponseHeaders": [
@@ -25899,19 +25899,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2704"
+          "Value": "2549"
         },
         {
           "Name": "ETag",
-          "Value": "\"mfFbsAAWi086juifoHUXQz8Ul4sTsqNE/ACWYH/0hUQ=\""
+          "Value": "\"khlwayKWuWkfwDR3dbyS7hos8OrO6CsXVMUWhFaZjC4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
+          "Value": "Tue, 04 Feb 2025 15:57:19 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -25927,18 +25927,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"R8QfHZLYjjiDJJI5qxEV9atGjnLElbf7wGiRIKx4tJg=\""
+          "Value": "W/\"eyRuTmFgOiNuXdYZBJzzOP9DG7P8EIsQyY/pdmljOVY=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "bkub1lmpp5"
+        },
+        {
+          "Name": "label",
+          "Value": "Index/prenotation.html"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-R8QfHZLYjjiDJJI5qxEV9atGjnLElbf7wGiRIKx4tJg="
+          "Value": "sha256-eyRuTmFgOiNuXdYZBJzzOP9DG7P8EIsQyY/pdmljOVY="
         }
       ]
     },
     {
-      "Route": "Index/prenotation.html",
+      "Route": "Index/prenotation.bkub1lmpp5.html",
       "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Index\\prenotation.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -25948,7 +25956,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9744"
+          "Value": "9450"
         },
         {
           "Name": "Content-Type",
@@ -25956,121 +25964,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"R8QfHZLYjjiDJJI5qxEV9atGjnLElbf7wGiRIKx4tJg=\""
+          "Value": "\"eyRuTmFgOiNuXdYZBJzzOP9DG7P8EIsQyY/pdmljOVY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-R8QfHZLYjjiDJJI5qxEV9atGjnLElbf7wGiRIKx4tJg="
-        }
-      ]
-    },
-    {
-      "Route": "Index/prenotation.html.gz",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\jjoseq9rj8-ll7hrc9b81.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2704"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"mfFbsAAWi086juifoHUXQz8Ul4sTsqNE/ACWYH/0hUQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-mfFbsAAWi086juifoHUXQz8Ul4sTsqNE/ACWYH/0hUQ="
-        }
-      ]
-    },
-    {
-      "Route": "Index/prenotation.ll7hrc9b81.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\jjoseq9rj8-ll7hrc9b81.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000369685767"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2704"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"mfFbsAAWi086juifoHUXQz8Ul4sTsqNE/ACWYH/0hUQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
+          "Value": "Tue, 04 Feb 2025 15:57:19 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"R8QfHZLYjjiDJJI5qxEV9atGjnLElbf7wGiRIKx4tJg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ll7hrc9b81"
+          "Value": "bkub1lmpp5"
         },
         {
           "Name": "label",
@@ -26078,13 +25986,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-R8QfHZLYjjiDJJI5qxEV9atGjnLElbf7wGiRIKx4tJg="
+          "Value": "sha256-eyRuTmFgOiNuXdYZBJzzOP9DG7P8EIsQyY/pdmljOVY="
         }
       ]
     },
     {
-      "Route": "Index/prenotation.ll7hrc9b81.html",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Index\\prenotation.html",
+      "Route": "Index/prenotation.bkub1lmpp5.html.gz",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\jjoseq9rj8-bkub1lmpp5.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -26093,7 +26001,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9744"
+          "Value": "2549"
         },
         {
           "Name": "Content-Type",
@@ -26101,56 +26009,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"R8QfHZLYjjiDJJI5qxEV9atGjnLElbf7wGiRIKx4tJg=\""
+          "Value": "\"khlwayKWuWkfwDR3dbyS7hos8OrO6CsXVMUWhFaZjC4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ll7hrc9b81"
-        },
-        {
-          "Name": "label",
-          "Value": "Index/prenotation.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-R8QfHZLYjjiDJJI5qxEV9atGjnLElbf7wGiRIKx4tJg="
-        }
-      ]
-    },
-    {
-      "Route": "Index/prenotation.ll7hrc9b81.html.gz",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\jjoseq9rj8-ll7hrc9b81.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2704"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"mfFbsAAWi086juifoHUXQz8Ul4sTsqNE/ACWYH/0hUQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
+          "Value": "Tue, 04 Feb 2025 15:57:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26168,7 +26031,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ll7hrc9b81"
+          "Value": "bkub1lmpp5"
         },
         {
           "Name": "label",
@@ -26176,18 +26039,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-mfFbsAAWi086juifoHUXQz8Ul4sTsqNE/ACWYH/0hUQ="
+          "Value": "sha256-khlwayKWuWkfwDR3dbyS7hos8OrO6CsXVMUWhFaZjC4="
         }
       ]
     },
     {
-      "Route": "Script/GetViaggi.js",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\ec79a0qdxt-vwy9uf8r6q.gz",
+      "Route": "Index/prenotation.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\jjoseq9rj8-bkub1lmpp5.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003521126761"
+          "Quality": "0.000392156863"
         }
       ],
       "ResponseHeaders": [
@@ -26197,15 +26060,152 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "283"
+          "Value": "2549"
         },
         {
           "Name": "ETag",
-          "Value": "\"g7Xj0B1rc11NTB5kknmh8/LOf8U3zQIsNfEu03TTpLk=\""
+          "Value": "\"khlwayKWuWkfwDR3dbyS7hos8OrO6CsXVMUWhFaZjC4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
+          "Value": "Tue, 04 Feb 2025 15:57:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"eyRuTmFgOiNuXdYZBJzzOP9DG7P8EIsQyY/pdmljOVY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eyRuTmFgOiNuXdYZBJzzOP9DG7P8EIsQyY/pdmljOVY="
+        }
+      ]
+    },
+    {
+      "Route": "Index/prenotation.html",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Index\\prenotation.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9450"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eyRuTmFgOiNuXdYZBJzzOP9DG7P8EIsQyY/pdmljOVY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 15:57:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eyRuTmFgOiNuXdYZBJzzOP9DG7P8EIsQyY/pdmljOVY="
+        }
+      ]
+    },
+    {
+      "Route": "Index/prenotation.html.gz",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\jjoseq9rj8-bkub1lmpp5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2549"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"khlwayKWuWkfwDR3dbyS7hos8OrO6CsXVMUWhFaZjC4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 15:57:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-khlwayKWuWkfwDR3dbyS7hos8OrO6CsXVMUWhFaZjC4="
+        }
+      ]
+    },
+    {
+      "Route": "Script/GetViaggi.js",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\ec79a0qdxt-ozuks9ljc8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003424657534"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "291"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7xqbKzqm0j4svl3XqkNfR+p/3Gz0mGnkY5iFHBUMU0s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 15:50:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26225,13 +26225,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"/9IOf60cK9F8BgeKewYz6WDiRinBdlrxHclJJ7mcDIk=\""
+          "Value": "W/\"5EkT5+CnUAMK0bYiiAqITx1Qv4SlKJGvqdb53FH8LA0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/9IOf60cK9F8BgeKewYz6WDiRinBdlrxHclJJ7mcDIk="
+          "Value": "sha256-5EkT5+CnUAMK0bYiiAqITx1Qv4SlKJGvqdb53FH8LA0="
         }
       ]
     },
@@ -26246,7 +26246,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "541"
+          "Value": "495"
         },
         {
           "Name": "Content-Type",
@@ -26254,11 +26254,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/9IOf60cK9F8BgeKewYz6WDiRinBdlrxHclJJ7mcDIk=\""
+          "Value": "\"5EkT5+CnUAMK0bYiiAqITx1Qv4SlKJGvqdb53FH8LA0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
+          "Value": "Tue, 04 Feb 2025 15:50:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26268,13 +26268,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/9IOf60cK9F8BgeKewYz6WDiRinBdlrxHclJJ7mcDIk="
+          "Value": "sha256-5EkT5+CnUAMK0bYiiAqITx1Qv4SlKJGvqdb53FH8LA0="
         }
       ]
     },
     {
       "Route": "Script/GetViaggi.js.gz",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\ec79a0qdxt-vwy9uf8r6q.gz",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\ec79a0qdxt-ozuks9ljc8.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -26283,7 +26283,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "283"
+          "Value": "291"
         },
         {
           "Name": "Content-Type",
@@ -26291,11 +26291,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"g7Xj0B1rc11NTB5kknmh8/LOf8U3zQIsNfEu03TTpLk=\""
+          "Value": "\"7xqbKzqm0j4svl3XqkNfR+p/3Gz0mGnkY5iFHBUMU0s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
+          "Value": "Tue, 04 Feb 2025 15:50:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26313,18 +26313,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-g7Xj0B1rc11NTB5kknmh8/LOf8U3zQIsNfEu03TTpLk="
+          "Value": "sha256-7xqbKzqm0j4svl3XqkNfR+p/3Gz0mGnkY5iFHBUMU0s="
         }
       ]
     },
     {
-      "Route": "Script/GetViaggi.vwy9uf8r6q.js",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\ec79a0qdxt-vwy9uf8r6q.gz",
+      "Route": "Script/GetViaggi.ozuks9ljc8.js",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\ec79a0qdxt-ozuks9ljc8.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003521126761"
+          "Quality": "0.003424657534"
         }
       ],
       "ResponseHeaders": [
@@ -26334,15 +26334,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "283"
+          "Value": "291"
         },
         {
           "Name": "ETag",
-          "Value": "\"g7Xj0B1rc11NTB5kknmh8/LOf8U3zQIsNfEu03TTpLk=\""
+          "Value": "\"7xqbKzqm0j4svl3XqkNfR+p/3Gz0mGnkY5iFHBUMU0s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
+          "Value": "Tue, 04 Feb 2025 15:50:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26362,13 +26362,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"/9IOf60cK9F8BgeKewYz6WDiRinBdlrxHclJJ7mcDIk=\""
+          "Value": "W/\"5EkT5+CnUAMK0bYiiAqITx1Qv4SlKJGvqdb53FH8LA0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vwy9uf8r6q"
+          "Value": "ozuks9ljc8"
         },
         {
           "Name": "label",
@@ -26376,12 +26376,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/9IOf60cK9F8BgeKewYz6WDiRinBdlrxHclJJ7mcDIk="
+          "Value": "sha256-5EkT5+CnUAMK0bYiiAqITx1Qv4SlKJGvqdb53FH8LA0="
         }
       ]
     },
     {
-      "Route": "Script/GetViaggi.vwy9uf8r6q.js",
+      "Route": "Script/GetViaggi.ozuks9ljc8.js",
       "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\wwwroot\\Script\\GetViaggi.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -26391,7 +26391,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "541"
+          "Value": "495"
         },
         {
           "Name": "Content-Type",
@@ -26399,11 +26399,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/9IOf60cK9F8BgeKewYz6WDiRinBdlrxHclJJ7mcDIk=\""
+          "Value": "\"5EkT5+CnUAMK0bYiiAqITx1Qv4SlKJGvqdb53FH8LA0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
+          "Value": "Tue, 04 Feb 2025 15:50:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26413,7 +26413,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vwy9uf8r6q"
+          "Value": "ozuks9ljc8"
         },
         {
           "Name": "label",
@@ -26421,13 +26421,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/9IOf60cK9F8BgeKewYz6WDiRinBdlrxHclJJ7mcDIk="
+          "Value": "sha256-5EkT5+CnUAMK0bYiiAqITx1Qv4SlKJGvqdb53FH8LA0="
         }
       ]
     },
     {
-      "Route": "Script/GetViaggi.vwy9uf8r6q.js.gz",
-      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\ec79a0qdxt-vwy9uf8r6q.gz",
+      "Route": "Script/GetViaggi.ozuks9ljc8.js.gz",
+      "AssetFile": "C:\\Users\\Pietro\\source\\repos\\PCTO_Makaoui_Pessini\\WebAppPcto\\WebAppPcto\\obj\\Debug\\net9.0\\compressed\\ec79a0qdxt-ozuks9ljc8.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -26436,7 +26436,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "283"
+          "Value": "291"
         },
         {
           "Name": "Content-Type",
@@ -26444,11 +26444,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"g7Xj0B1rc11NTB5kknmh8/LOf8U3zQIsNfEu03TTpLk=\""
+          "Value": "\"7xqbKzqm0j4svl3XqkNfR+p/3Gz0mGnkY5iFHBUMU0s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Feb 2025 10:07:35 GMT"
+          "Value": "Tue, 04 Feb 2025 15:50:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26466,7 +26466,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vwy9uf8r6q"
+          "Value": "ozuks9ljc8"
         },
         {
           "Name": "label",
@@ -26474,7 +26474,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-g7Xj0B1rc11NTB5kknmh8/LOf8U3zQIsNfEu03TTpLk="
+          "Value": "sha256-7xqbKzqm0j4svl3XqkNfR+p/3Gz0mGnkY5iFHBUMU0s="
         }
       ]
     },

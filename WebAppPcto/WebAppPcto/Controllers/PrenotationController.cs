@@ -21,7 +21,19 @@ namespace WebAppPcto.Controllers
             var result = _context.Prenotation;
             return Ok(result);
         }
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var pren = await _context.Prenotation.FindAsync(id);
+            if (pren == null)
+            {
+                return NotFound("viaggi non trovati");
+            }
+            _context.Prenotation.Remove(pren);
+            await _context.SaveChangesAsync();
 
+            return NoContent();
+        }
         [HttpPost]
         public ActionResult Post(Prenotazione p)
         {

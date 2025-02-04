@@ -2568,8 +2568,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ll7hrc9b81</Fingerprint>
-      <Integrity>R8QfHZLYjjiDJJI5qxEV9atGjnLElbf7wGiRIKx4tJg=</Integrity>
+      <Fingerprint>bkub1lmpp5</Fingerprint>
+      <Integrity>eyRuTmFgOiNuXdYZBJzzOP9DG7P8EIsQyY/pdmljOVY=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Index\prenotation.html'))</OriginalItemSpec>
@@ -2586,8 +2586,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>vwy9uf8r6q</Fingerprint>
-      <Integrity>/9IOf60cK9F8BgeKewYz6WDiRinBdlrxHclJJ7mcDIk=</Integrity>
+      <Fingerprint>ozuks9ljc8</Fingerprint>
+      <Integrity>5EkT5+CnUAMK0bYiiAqITx1Qv4SlKJGvqdb53FH8LA0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Script\GetViaggi.js'))</OriginalItemSpec>

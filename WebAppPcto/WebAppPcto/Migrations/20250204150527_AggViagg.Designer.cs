@@ -10,8 +10,8 @@ using WebAppPcto.Data;
 namespace WebAppPcto.Migrations
 {
     [DbContext(typeof(AgenziaDbContext))]
-    [Migration("20250204082801_AgMig")]
-    partial class AgMig
+    [Migration("20250204150527_AggViagg")]
+    partial class AggViagg
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -28,6 +28,9 @@ namespace WebAppPcto.Migrations
                     b.Property<string>("Email")
                         .IsRequired()
                         .HasColumnType("TEXT");
+
+                    b.Property<int>("IndViag")
+                        .HasColumnType("INTEGER");
 
                     b.Property<string>("NameUser")
                         .IsRequired()

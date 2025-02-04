@@ -1,14 +1,13 @@
 ﻿let template_students = (item) => {
     return `<tr>
+            <td><pre>   </pre></td>
             <td>${item.id}</td>
             <td>${item.name}</td>
-            <td>${item.surname}</td>
-            <td>${item.classRoomId}</td>
-            <td>${item.classRoomName}</td>
+            <td>(${item.price}€)</td>
             </tr>`
 };
 
-fetch("/api/Student")
+fetch("/api/viaggio")
     .then(response => response.json())
     .then(data => InsertDataInTable(data));
 

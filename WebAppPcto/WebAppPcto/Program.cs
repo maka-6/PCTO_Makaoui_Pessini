@@ -19,9 +19,16 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
+app.UseDefaultFiles();
 app.UseAuthorization();
 
 app.MapControllers();
 app.UseStaticFiles();
+app.Use(async (context, next) =>
+{
+    if (context.Request.Path == "/") { context.Response.Redirect("/index/index.html");
+        return;
+    }
+    await next();
+});
 app.Run();

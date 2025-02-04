@@ -26,6 +26,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "WebAppPcto.Controllers.PrenotationController",
+    "Method": "Delete",
+    "RelativePath": "api/Prenotation/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "WebAppPcto.Controllers.ViaggioController",
     "Method": "Get",
     "RelativePath": "api/Viaggio",
