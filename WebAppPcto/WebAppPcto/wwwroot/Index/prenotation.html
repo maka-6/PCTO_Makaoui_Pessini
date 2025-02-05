@@ -12,7 +12,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playwrite+AU+SA:wght@100..400&display=swap" rel="stylesheet">
-    <script src="Script\GetViaggi.js"></script>
+    <script src="../Script/GetViaggi.js"></script>
     <style>
         body {
             background-image: url('https://dungeonoracle.wordpress.com/wp-content/uploads/2012/12/corridor.jpg?w=584');
@@ -99,14 +99,16 @@
                     </div>
                     <div class="mb-3">
                         <table class="table" id="viaggio">
-                            <tr>
-                                <th><pre>   </pre></th>
-                                <th>id vacanza</th>
-                                <th>Name</th>
-                                <th>prezzo</th>
-                            </tr>
+                            <thead>
+                                <tr>
+                                    <th><pre>   </pre></th>
+                                    <th>id vacanza</th>
+                                    <th>Name</th>
+                                    <th>prezzo</th>
+                                </tr>
+                            </thead>
+                            <tbody id="table_body"></tbody>
                         </table>
-                        <tbody id="table_body"></tbody>
                         <label for="quantity" class="form-label playwrite-au-sa">inserisci l'id della vacanza che vuoi prenotare:
                             <br>   1: vacanza tra i santuari degli dei nella città di Atena
                             <br>   2: viaggio nei luoghi di sterminio della croce uncinata

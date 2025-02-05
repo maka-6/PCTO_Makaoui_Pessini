@@ -2568,8 +2568,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>mqc8yrqwk1</Fingerprint>
-      <Integrity>gr9LRJ6UTOSB9Bb4nZiDQvh0Kruywx8wtL4C1JuNYhk=</Integrity>
+      <Fingerprint>azbuw8rpcz</Fingerprint>
+      <Integrity>JsjhwZTTaRN3DvQvBlfxWjVNm59LnVNZpJpR/wbn4Rw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Index\prenotation.html'))</OriginalItemSpec>
